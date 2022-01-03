@@ -1,5 +1,5 @@
-("Vault Analyzer End-Game Edition | Highlights Trash | Keeps Top 2.5% Armor |
-Update Version: #0028"
+("Vault Analyzer End-Game | Highlights Trash | Keeps Top 2.5% Armor |
+v0.28"
 or
 (
 (

@@ -1,5 +1,5 @@
 ("Vault Analyzer Entry level | Highlights Trash |  Keeps Top 15% Armor |
-Update Version: #0028"
+v0.28"
 or
 (
 (
