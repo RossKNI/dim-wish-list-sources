@@ -1,4 +1,4 @@
-title: v1.11 | Compiled collection of god/recommended rolls
+title: v1.12 | Compiled collection of god/recommended rolls
 
 description: Managed by Rauce
 
@@ -1294,6 +1294,18 @@ dimwishlist:item=2708806099&perks=4090651448,1885400500,957782887,699525795
 dimwishlist:item=2708806099&perks=4090651448,1885400500,957782887,454085387
 
 
+// Timelines' Vertex ()
+//notes:  Rauce: PvP - Tier: A. Scopes: Flash HS5 > Signal > Trnasmission > Impulse
+dimwishlist:item=3055192515&perks=1628165637,689005463,280464955,957782887
+dimwishlist:item=3055192515&perks=1628165637,689005463,280464955,1600092898
+dimwishlist:item=3055192515&perks=194952923,689005463,280464955,957782887
+dimwishlist:item=3055192515&perks=194952923,689005463,280464955,1600092898
+dimwishlist:item=3055192515&perks=194952921,689005463,280464955,957782887
+dimwishlist:item=3055192515&perks=194952921,689005463,280464955,1600092898
+dimwishlist:item=3055192515&perks=194952922,689005463,280464955,957782887
+dimwishlist:item=3055192515&perks=194952922,689005463,280464955,1600092898
+
+
 // Threaded Needle ()
 //notes: Rauce: PvE - Tier: S. Extremely good DPS when combined with a Witherhoard & catalyst along with the current season's "Particle Deconstruction" artifact mod. Clown cartridge > auto-loading holster
 dimwishlist:item=3075224551&perks=4090651448,689005463,2284787283,1546637391
@@ -2309,6 +2321,9 @@ dimwishlist:item=4255171531&perks=3798852852,2985827016,3977735242,1546637391
 dimwishlist:item=4255171531&perks=3798852852,2985827016,2869569095,3194351027
 dimwishlist:item=4255171531&perks=3798852852,2985827016,2869569095,2284787283
 dimwishlist:item=4255171531&perks=3798852852,2985827016,2869569095,1546637391
+
+
+
 
 
 
@@ -51767,7 +51782,6 @@ dimwishlist:item=-2753269585#notes:Tempered Dynapuke 🤢🤢🤢 (Epicurean is 
 // adaptive fusion rifle
 dimwishlist:item=-394810086#notes:Dream Puker 🤢🤢🤢 (can't beat Techeun Force)
 dimwishlist:item=-2931957300#notes:Dream Puker 🤢🤢🤢 (can't beat Techeun Force)
-dimwishlist:item=-3055192515#notes:Loaded Question > Timelines' Vertex
 
 // lightweight grenade launcher
 dimwishlist:item=-3745974521#notes:The Militia's Pukeright 🤢🤢🤢 (it's not Mountaintop and it can't even get Demolitionist like Orewing's can)
