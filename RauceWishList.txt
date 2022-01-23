@@ -1,4 +1,4 @@
-title: v1.15 | Compiled collection of god/recommended rolls
+title: v1.16 | Compiled collection of god/recommended rolls
 
 description: Managed by Rauce
 
@@ -2517,7 +2517,22 @@ dimwishlist:item=3460576091#notes:Rauce: PvP - Tier: S+
 dimwishlist:item=1594120904#notes:Rauce: PvP - Tier: A
 //Vigilance Wing
 dimwishlist:item=3628991659#notes:Rauce: PvP - Tier: A
-
+//Lumina
+dimwishlist:item=3512014804#notes:Rauce: PvP - Tier: B / S when combined with Boots of the Assembler, for great synergy
+//Jötunn
+dimwishlist:item=417164956#notes:Rauce: PvP - Tier: B - Easy to use, effective against average to lower skilled players in Quickplay etc.
+//Lorentz Driver
+dimwishlist:item=3761898871#notes:Rauce: PvP - Tier: S
+//Cloudstrike
+dimwishlist:item=2603483885#notes:Rauce: PvP - Tier: A
+//Heir Apparent
+dimwishlist:item=2084878005#notes:Rauce: PvP - Tier: A
+//Forerunner
+dimwishlist:item=2179048386#notes:Rauce: PvP - Tier: A
+//Eyes of Tomorrow
+dimwishlist:item=2399110176#notes:Rauce: PvP - Tier: A
+//Bastion
+dimwishlist:item=2415517654#notes:Rauce: PvP - Tier: A
 
 //		PvE Weapons
 //Arbalest
@@ -2540,8 +2555,6 @@ dimwishlist:item=2376481550#notes:Rauce: PvE - Tier: S
 dimwishlist:item=4036115577#notes:Rauce: PvE - Tier: S+ - benefits greatly when used with the Particle Deconstruction mod, which applies up to a 40% damage bonus debuff when you or a fireteam member uses a Fusion or linear fusion rifle.
 //Riskrunner
 dimwishlist:item=3089417789#notes:Rauce: PvE - Tier: A
-//Jötunn
-dimwishlist:item=417164956#notes:Rauce: PvP - Tier: B - Easy to use, effective against average to lower skilled players in Quickplay etc.
 //Whisper of the Worm
 dimwishlist:item=1891561814#notes:Rauce: PvE - Tier: S+ - Best long DPS in the game however this heavily relies on the user not missing crits.
 //Le Monarque
@@ -2558,10 +2571,11 @@ dimwishlist:item=1833195496#notes:Rauce: PvE - Tier: A
 dimwishlist:item=2907129557#notes:Rauce: PvE - Tier: B
 //TRACTOR CANNON
 dimwishlist:item=3580904581#notes:Rauce: PvE - Tier: A - While enemies are suppressed, they take 50% more damage from Void attacks and 33% more damage from non-Void attacks. Tractor Cannon's weakening effect does not stack with effects inflicted by Shadowshot and Hammer Strike.
-//Lumina
-dimwishlist:item=3512014804#notes:Rauce: PvP - Tier: B / S when combined with Boots of the Assembler, for great synergy
-//Malfeasance - Tier: S - ONLY when combined with the hunter exotic "Lucky Pants"
-dimwishlist:item=-204878059#notes:Rauce: PvE - Tier: Z - Because Moses likes it 😉
+//Malfeasance
+dimwishlist:item=-204878059#notes:Rauce: PvE - Tier: Z - Because Moses likes it 😉. Realistically Tier A when combined with the hunter exotic "Lucky Pants".
+//Telesto
+dimwishlist:item=2208405142#notes:Rauce: PvE - Tier: A
+
 //														## Tier C/D ##
 
 //		PvP Weapons
@@ -2581,7 +2595,10 @@ dimwishlist:item=-3844694310#notes:Rauce: Trash in the current sandbox 🤢
 dimwishlist:item=-3899270607#notes:Rauce: Trash in the current sandbox 🤢
 // Fighting Lion
 dimwishlist:item=-3549153978#notes:Rauce: Good PvP weapon in the right hands, but has a high skill ceiling which most players could not reach.
-
+//Traveler's Chosen
+dimwishlist:item=-1853180924#notes:Rauce: PvP - Not worth the exotic slot 🤢
+//Truth
+dimwishlist:item=-1201830623#notes:Rauce: Trash in the current sandbox 🤢
 
 //		PvE Weapons
 //Borealis
@@ -2629,7 +2646,7 @@ dimwishlist:item=-4255268456#notes:Rauce: Trash in the current sandbox 🤢
 //Two-Tailed Fox
 dimwishlist:item=-2694576561#notes:Rauce: Trash in the current sandbox 🤢
 //The Fourth Horseman
-dimwishlist:item=-1665952087#notes:Rauce: Trash in the current sandbox 🤢
+dimwishlist:item=-1665952087#notes:Rauce: Trash in the current sandbox, extremely good DPS but typically not reliable enough for most encounters 🤢
 //Tommy's Matchbook
 dimwishlist:item=-776191470#notes:Rauce: Trash in the current sandbox 🤢
 //Leviathan's Breath
@@ -2640,9 +2657,20 @@ dimwishlist:item=-2591746970#notes:Rauce: Trash in the current sandbox 🤢
 dimwishlist:item=-2856683562#notes:Rauce: Trash in the current sandbox 🤢
 //Thunderlord
 dimwishlist:item=-3325463374#notes:Rauce: Trash in the current sandbox 🤢
-//POLARIS LANCE
+//Polaris Lance
 dimwishlist:item=-3413074534#notes:Rauce: PvE/PvP - Tier: C - Weapon is too situational/requires you to play a specific way (long-range)
-
+//Huckleberry
+dimwishlist:item=-2286143274#notes:Rauce: Trash in the current sandbox 🤢
+//Wish-Ender
+dimwishlist:item=-814876684#notes:Rauce: Trash in the current sandbox 🤢
+//Monte Carlo
+dimwishlist:item=-4068264807#notes:Rauce: Trash in the current sandbox, unless you require it for a very specific build. 🤢
+//Cryosthesia 77K
+dimwishlist:item=-603721696#notes:Rauce: Trash in the current sandbox 🤢
+//Black Talon
+dimwishlist:item=-3766045777#notes:Rauce: Trash in the current sandbox 🤢
+//The Queenbreaker
+dimwishlist:item=-2044500762#notes:Rauce: Trash in the current sandbox 🤢
 
 // 											@@@@@@@@@@ Exotic armour @@@@@@@@@@
 
@@ -2807,7 +2835,7 @@ dimwishlist:item=193869523
 //Wormhusk Crown
 dimwishlist:item=3562696927
 //Omnioculus
-dimwishlist:item=1935198785#notes: Rauce: PvE - Tier: S - Grants an extra smoke bomb charge, 50% damage reduction whilst invisible which also applies to teammates. Increases mobility and resilience by 34% via Heart of the Pack.  Cloaking an ally grants 50% Melee Energy per ally.
+dimwishlist:item=1935198785#notes: Rauce: PvE - Tier: S+ - Grants an extra smoke bomb charge, 50% damage reduction whilst invisible which also applies to teammates, cloaking an ally grants 50% Melee Energy per ally. "Heart of the pack" buff increases mobility, recovery and resilience by 3.4 tiers PER STACK of "Heart of the Pack" (max of 3x).  
 //GEMINI JESTER
 dimwishlist:item=1163283805
 //Celestial Nighthawk
