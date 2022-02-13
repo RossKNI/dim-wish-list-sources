@@ -1,4 +1,4 @@
-title: v1.192 | Compiled collection of god/recommended rolls for controller users
+title: v1.193 | Compiled collection of god/recommended rolls for controller users
 
 description: Maintained by Ross - community wish list (WL) with PC roles removed and other amendments/corrections. The WL can used to to assist with locking and storing the best roll(s) of each weapon. This means that the WL does NOT just contain meta weapons for this specific season, simply the best roles of each weapon in the game.
 
@@ -3140,7 +3140,7 @@ dimwishlist:item=2208405142#notes:Ross: PvE - Tier: A
 
 //		PvP Weapons
 // MIDA
-dimwishlist:item=-1331482397#notes:Ross: Scouts are not great in the current sandbox therefore dedicating your exotic slot to it, is often a waste.
+dimwishlist:item=-1331482397#notes:Ross: PvP - Scouts are very poor in the current PvE and PvP sandbox, therefore dedicating your exotic slot to it is a waste in a competitive PvP environment.
 // Bad Juju
 dimwishlist:item=-2816212794#notes:Ross: Trash in the current sandbox
 //Truth
@@ -3266,7 +3266,7 @@ dimwishlist:item=3844826440#notes: PvP - Tier: A
 //Ophidian Aspect
 dimwishlist:item=3627185503#notes: PvP - Tier: A
 //Boots of the Assembler
-dimwishlist:item=3045642045#notes: PvP - Tier: A / S when paired with Lumina hand cannon
+dimwishlist:item=3045642045#notes: PvP - Tier: S. PvE - Tier: S+ an extremely good exotic which will be just as strong in the Witch Queen sandbox.
 
 
 // 							Tier C/D
