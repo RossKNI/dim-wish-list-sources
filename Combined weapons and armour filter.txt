@@ -1,0 +1,46 @@
+("ross combined filter: highlights weapons with poor rolls & armour with poor stats (not top 2.5% roll) |
+Update version: #0029.4" 
+or
+(
+	(
+		(
+		is:weapon (is:sunset or is:blue)
+		)
+	or
+	(
+		(is:armor -is:exotic -is:classitem)
+
+		-(source:raid -is:dupelower -source:dcv)
+
+		-(maxbasestatvalue:any)
+		-(basestat:any:>=23)
+		-(basestat:total:>=65)
+
+		-(basestat:highest&secondhighest:>=19)
+
+		-(basestat:highest&secondhighest&thirdhighest:>=16.66)
+
+		-(basestat:highest&secondhighest&thirdhighest&fourthhighest:>=14.25)
+
+		-(basestat:mobility&resilience&recovery&discipline&intellect&strength:>=10 basestat:sixthhighest:>=7 basestat:highest:<16)
+	)
+
+	or
+		(is:classitem energycapacity:<=5 -is:modded -is:locked -(source:raid -is:dupelower -source:dcv))
+	or
+		(is:armor is:sunset)
+	or
+		(is:armor is:blue -(name:"war mantis" is:gauntlets))	
+	or
+		((is:armor or is:weapon) and (is:common or is:uncommon))
+	or  
+		(stat:total:<60 -is:exotic is:armor)
+	or
+		(-is:wishlist is:weapon -is:exotic)
+	)
+	-(is:tagged -tag:junk) -is:maxpowerloadout -(is:armor -is:armor2.0) -(is:armor source:events) -(name:"iron forerunner bond" or "iron forerunner mark" or "iron forerunner cloak")
+	)  
+
+	or 
+		(tag:junk -is:maxpowerloadout)
+)

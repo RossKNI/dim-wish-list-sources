@@ -1,4 +1,0 @@
-"clean out weapon | highlights possible dismantles" or (
-is:weapon -(is:tagged -tag:junk) -is:wishlist -is:exotic -is:inloadout -is:maxpower -power:pinnaclecap -is:masterwork) or 
-(is:weapon tag:junk -is:maxpower) or 
-(is:weapon (is:sunset or is:blue))
