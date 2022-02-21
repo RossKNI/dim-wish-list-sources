@@ -1,0 +1,439 @@
+//**********************************************************************************************************************************************
+//****************************************************************  Exotic weapons  ************************************************************
+//**********************************************************************************************************************************************
+		
+
+//														## Tier S/A/B ##
+//														## Tier C/D ##
+
+
+//**********************************************************************************************************************************
+***********************************************************  To Sort  ********************************************************
+//**********************************************************************************************************************************
+
+
+//		PvP Weapons
+//Ace of Spades
+//dimwishlist:item=347366834#notes:Ross: PvP - Tier:
+//The Chaperone
+//dimwishlist:item=3413860062#notes:Ross: PvP - Tier:
+//Hawkmoon - Disabled due to possessing random rolls
+//dimwishlist:item=3856705927#notes:Ross: PvP - Tier:
+//Crimson
+//dimwishlist:item=3437746471#notes:Ross: PvP - Tier:
+//The Last Word
+//dimwishlist:item=1364093401#notes:Ross: PvP - Tier:
+//Thorn
+//dimwishlist:item=3973202132#notes:Ross: PvP - Tier:
+//The Wardcliff Coil
+//dimwishlist:item=1508896098#notes:Ross: PvP - Tier:
+//Duality
+//dimwishlist:item=3460576091#notes:Ross: PvP - Tier:
+//No Time to Explain
+//dimwishlist:item=1594120904#notes:Ross: PvP - Tier:
+//Vigilance Wing
+//dimwishlist:item=3628991659#notes:Ross: PvP - Tier:
+//Lumina
+//dimwishlist:item=3512014804#notes:Ross: PvP - Tier: ******** or **** when combined with Boots of the Assembler, for great synergy
+//Jötunn
+//dimwishlist:item=417164956#notes:Ross: PvP - Tier:  - Easy to use, the go to weapon of choice if you don't have any thumbs and play with a Wii remote.
+//Lorentz Driver
+//dimwishlist:item=3761898871#notes:Ross: PvP - Tier:  - Lorentz will spawn telemetry patterns with crits from any equipped gun, the tags on the barrel will display how many patterns you have (max of 3). You can refresh buff by picking up 1 more.  When lagrangian sight is active, you can 1 hit body shot.
+//Cloudstrike
+//dimwishlist:item=2603483885#notes:Ross: PvP - Tier: 
+//Heir Apparent
+//dimwishlist:item=2084878005#notes:Ross: PvP - Tier: 
+//Forerunner
+//dimwishlist:item=2179048386#notes:Ross: PvP - Tier: 
+//Eyes of Tomorrow
+//dimwishlist:item=2399110176#notes:Ross: PvP - Tier: 
+//Bastion
+//dimwishlist:item=2415517654#notes:Ross: PvP - Tier: 
+// MIDA
+//dimwishlist:item=-1331482397#notes:Ross: PvP - Scouts are not great in the current sandbox therefore dedicating your exotic slot to it, is often a waste.
+// Bad Juju
+//dimwishlist:item=-2816212794#notes:Ross: Trash in the current sandbox
+//Truth
+//dimwishlist:item=-1201830623#notes:Ross: PvP - Trash in the current sandbox. Gjallarhorn > Truth
+//Dead Man's Tale - Disabled due to possessing random rolls
+//dimwishlist:item=-3654674561#notes:Ross: PvP - Dead Man's Tale (DMT) is inconsistent in the current sandbox for controller.
+//Lord of Wolves
+//dimwishlist:item=-3413860063#notes:Ross: PvP - Trash in the current sandbox
+//The Jade Rabbit
+//dimwishlist:item=-3844694310#notes:Ross: PvP - Trash in the current sandbox
+//The Colony
+//dimwishlist:item=-3899270607#notes:Ross: PvP - Trash in the current sandbox
+// Fighting Lion
+//dimwishlist:item=-3549153978#notes:Ross: PvP - Good PvP weapon in the right hands, but has a high skill ceiling which most players could not reach.
+//Traveler's Chosen
+//dimwishlist:item=-1853180924#notes:Ross: PvP - Not worth the exotic slot
+//Sturm
+//dimwishlist:item=-2907129556#notes:Ross: PvP - Trash in the current sandbox
+
+
+
+
+//		PvE Weapons
+//Arbalest
+//dimwishlist:item=2130065553#notes:Ross: PvE - Tier:  - THE meta gun for Grand Master Nightfalls, it breaks any shield in one shot (including barrier champions) and upon breaking a shield it will: weaken enemy granting a 50% kinetic damage increase for 5.5 seconds (stacks with Particle Deconstruction 40% damage increase) and the catalyst also grants Genesis which reloads mag from reserves.
+//Vex Mythoclast
+//dimwishlist:item=4289226715#notes:Ross: PvE - Tier:  - benefits greatly when used with the Particle Deconstruction mod, which applies up to a 40% damage bonus debuff when you or a fireteam member uses a Fusion or linear fusion rifle.
+//One Thousand Voices
+//dimwishlist:item=2069224589#notes:Ross: PvE - Tier:  - benefits greatly when used with the Particle Deconstruction mod, which applies up to a 40% damage bonus debuff when you or a fireteam member uses a Fusion or linear fusion rifle.
+//Divinity
+//dimwishlist:item=4103414242#notes:Ross: PvE - Tier: 
+//The Lament
+//dimwishlist:item=3487253372#notes:Ross: PvE - Tier: 
+//Trinity Ghoul
+//dimwishlist:item=814876685#notes:Ross: PvE - Tier: 
+//Witherhoard
+//dimwishlist:item=2357297366#notes:Ross: PvE - Tier:  (Top tier) with completed catalyst - extremely strong when combined with a S tier exotic heavy weapon like a fusion / linear fusion. This allows you to apply tick damage whilst shooting another weapon concurrently
+//Anarchy
+//dimwishlist:item=2376481550#notes:Ross: PvE - Tier: 
+//Sleeper Simulant
+//dimwishlist:item=4036115577#notes:Ross: PvE - Tier:  - benefits greatly when used with the Particle Deconstruction mod, which applies up to a 40% damage bonus debuff when you or a fireteam member uses a Fusion or linear fusion rifle.
+//Riskrunner
+//dimwishlist:item=3089417789#notes:Ross: PvE - Tier: 
+//Whisper of the Worm
+//dimwishlist:item=1891561814#notes:Ross: PvE - Tier:  - Best long DPS in the game however this heavily relies on the user not missing crits.
+//Le Monarque
+//dimwishlist:item=3588934839#notes:Ross: PvE - Tier: 
+//Ticuu's Divination
+//dimwishlist:item=3260753130#notes:Ross: PvE - Tier: 
+//Gjallarhorn
+//dimwishlist:item=1363886209#notes:Ross: PvE - Tier:  - when combined with fireteam members using legendary rocket launchers, as it will grant all legendary rocket launcher weilders Wolfpack rounds.
+//IZANAGI'S BURDEN
+//dimwishlist:item=3211806999#notes:Ross: PvE - Tier: 
+//AGER'S SCEPTER
+//dimwishlist:item=1833195496#notes:Ross: PvE - Tier: 
+//SUNSHOT
+//dimwishlist:item=2907129557#notes:Ross: PvE - Tier: 
+//TRACTOR CANNON
+//dimwishlist:item=3580904581#notes:Ross: PvE - Tier:  - While enemies are suppressed, they take 50% more damage from Void attacks and 33% more damage from non-Void attacks. Tractor Cannon's weakening effect does not stack with effects inflicted by Shadowshot and Hammer Strike.
+//Malfeasance
+//dimwishlist:item=204878059#notes:Ross: PvE - Tier:  - 
+//Telesto
+//dimwishlist:item=2208405142#notes:Ross: PvE - Tier: 
+//Borealis
+//dimwishlist:item=-3141979347#notes:Ross: Trash in the current sandbox
+//Cerberus+1
+//dimwishlist:item=-1541131350#notes:Ross: Trash in the current sandbox
+//Coldheart
+//dimwishlist:item=-1345867571#notes:Ross: Trash in the current sandbox
+//D.A.R.C.I.
+//dimwishlist:item=-3141979346#notes:Ross: Trash in the current sandbox
+//Deathbringer
+//dimwishlist:item=-2232171099#notes:Ross: Trash in the current sandbox
+//Devil's Ruin
+//dimwishlist:item=-3824106094#notes:Ross: Trash in the current sandbox
+//Eriana's Vow
+//dimwishlist:item=-3524313097#notes:Ross: Arbalest > Eriana's Vow for all PvE activities.
+//Graviton Lance
+//dimwishlist:item=-3628991658#notes:Ross: Trash in the current sandbox
+//Hard Light
+//dimwishlist:item=-4124984448#notes:Ross: Trash in the current sandbox
+//Prometheus Lens
+//dimwishlist:item=-19024058#notes:Ross: Trash in the current sandbox
+//The Prospector
+//dimwishlist:item=-3549153979#notes:Ross: Trash in the current sandbox
+//Xenophage
+//dimwishlist:item=-1395261499#notes:Ross: Trash in the current sandbox
+//Rat King
+//dimwishlist:item=-2362471601#notes:Ross: Trash in the current sandbox
+//Ruinous Effigy
+//dimwishlist:item=-1363238943#notes:Ross: Trash in the current sandbox
+//Legend of Acrius
+//dimwishlist:item=-1744115122#notes:Ross: Trash in the current sandbox
+//Worldline Zero
+//dimwishlist:item=-1864563948#notes:Ross: Trash in the current sandbox
+//Salvation's Grip
+//dimwishlist:item=-370712896#notes:Ross: Trash in the current sandbox
+//Sweet Business
+//dimwishlist:item=-1345867570#notes:Ross: Trash in the current sandbox
+//Wavesplitter
+//dimwishlist:item=-1852863732#notes:Ross: Trash in the current sandbox
+//Merciless
+//dimwishlist:item=-4190156464#notes:Ross: Trash in the current sandbox
+//Skyburner's Oath
+//dimwishlist:item=-4255268456#notes:Ross: Trash in the current sandbox
+//Two-Tailed Fox
+//dimwishlist:item=-2694576561#notes:Ross: Trash in the current sandbox
+//The Fourth Horseman
+//dimwishlist:item=-1665952087#notes:Ross: Trash in the current sandbox, extremely good DPS but typically not reliable enough for most encounters 🤢
+//Tommy's Matchbook
+//dimwishlist:item=-776191470#notes:Ross: Trash in the current sandbox
+//Leviathan's Breath
+//dimwishlist:item=-2591746970#notes:Ross: Trash in the current sandbox
+//Symmetry
+//dimwishlist:item=-4017959782#notes:Ross: Trash in the current sandbox
+//SUROS Regime
+//dimwishlist:item=-2856683562#notes:Ross: Trash in the current sandbox
+//Thunderlord
+//dimwishlist:item=-3325463374#notes:Ross: Trash in the current sandbox
+//Polaris Lance
+//dimwishlist:item=-3413074534#notes:Ross: PvE/PvP - Tier:  - Weapon is too situational/requires you to play a specific way (long-range)
+//Huckleberry
+//dimwishlist:item=-2286143274#notes:Ross: Trash in the current sandbox
+//Wish-Ender
+//dimwishlist:item=-814876684#notes:Ross: Trash in the current sandbox
+//Monte Carlo
+//dimwishlist:item=-4068264807#notes:Ross: Trash in the current sandbox, unless you require it for a very specific build.
+//Cryosthesia 77K
+//dimwishlist:item=-603721696#notes:Ross: Trash in the current sandbox
+//Black Talon
+//dimwishlist:item=-3766045777#notes:Ross: Trash in the current sandbox
+//The Queenbreaker
+//dimwishlist:item=-2044500762#notes:Ross: Trash in the current sandbox
+
+
+//**********************************************************************************************************************************
+***********************************************************  Exotic armour  ********************************************************
+//**********************************************************************************************************************************
+
+
+// 														Warlock
+
+// 							Tier S/A/B
+// 							Tier C/D
+
+
+//**********************************************************************************************************************************
+***********************************************************  To Sort  ********************************************************
+//**********************************************************************************************************************************
+
+
+//Eye of Another World
+//dimwishlist:item=3381022970#notes: PvE - Tier: S+
+//Geomag Stabilizers
+//dimwishlist:item=121305948#notes: PvE - Tier: S+ - Top tier exotic for end game content
+//LUNAFACTION BOOTS
+//dimwishlist:item=4136768282#notes: PvE - Tier: S+
+//Phoenix Protocol
+//dimwishlist:item=4057299719#notes: PvE - Tier: S+
+//Stormdancer's Brace
+//dimwishlist:item=1996008488#notes: PvE - Tier: S+ - 8 minor kills will restore 50% of your super energy
+//Aeon Soul
+//dimwishlist:item=2950045886#notes: PvE - Tier: S+ - Extremely useful for Grandmaster nightfalls and other endgame content
+//The Stag
+//dimwishlist:item=2177524718#notes: PvP - Tier: S+
+//GETAWAY ARTIST
+//dimwishlist:item=3084282676#notes: PvP - Tier: A
+//TRANSVERSIVE STEPS
+//dimwishlist:item=138282166#notes: PvP - Tier: A
+//KARNSTEIN ARMLETS
+//dimwishlist:item=3844826440#notes: PvP - Tier: A
+//Ophidian Aspect
+//dimwishlist:item=3627185503#notes: PvP - Tier: A
+//Boots of the Assembler
+//dimwishlist:item=3045642045#notes: PvP - Tier: S. PvE - Tier: S+ an extremely good exotic which will be just as strong in the Witch Queen sandbox.
+
+
+
+//Apotheosis Veil
+//dimwishlist:item=-1096253259
+//Astrocyte Verse
+//dimwishlist:item=-3948284065
+//Dawn Chorus
+//dimwishlist:item=-2316914168
+//Felwinter's Helm
+//dimwishlist:item=-2822465023
+//Nezarec's Sin
+//dimwishlist:item=-3381022971
+//WINTER'S GUILE
+//dimwishlist:item=-3844826443
+//Verity's Brow
+//dimwishlist:item=-2428181146
+//Contraverse Hold
+//dimwishlist:item=-1906093346
+//Claws of Ahamkara
+//dimwishlist:item=-2970800254
+//WINGS OF SACRED DAWN
+//dimwishlist:item=-370930766
+//STARFIRE PROTOCOL 
+//dimwishlist:item=-2082483156
+//Sanguine Alchemy
+//dimwishlist:item=-3070555693
+//Promethium Spur
+//dimwishlist:item=-235591051
+//Skull of Dire Ahamkara
+//dimwishlist:item=-1030017949
+//CROWN OF TEMPESTS
+//dimwishlist:item=-3381022969#notes:Stormdancer's Brace > Crown of Tempests
+//NOTHING MANACLES
+//dimwishlist:item=-300502917
+//SUNBRACERS 
+//dimwishlist:item=-3787517196
+//Necrotic Grip
+//dimwishlist:item=-2780717641
+//Chromatic Fire
+//dimwishlist:item=-4057299718
+//Mantle of Battle Harmony
+//dimwishlist:item=-3301944824
+//Vesper of Radius
+//dimwishlist:item=-1725917554
+
+
+// 														Titan
+
+// 							Tier S/A/B
+// 							Tier C/D
+
+
+//**********************************************************************************************************************************
+***********************************************************  To Sort  ********************************************************
+//**********************************************************************************************************************************
+
+
+//HELM OF SAINT-14
+//dimwishlist:item=106575079
+//ONE-EYED MASK
+//dimwishlist:item=2578771006
+//URSA FURIOSA
+//dimwishlist:item=1848640623
+//Lion Rampant
+//dimwishlist:item=3539357318
+//AEON Safe
+//dimwishlist:item=1654461647#notes:Ross: PvE - Tier: S - Extremely useful for Grandmaster nightfalls and other endgame content
+//SYNTHOCEPS 
+//dimwishlist:item=241462142
+//Cuirass of the Falling Star
+//dimwishlist:item=2321120637
+//Heart of Inmost Light
+//dimwishlist:item=1341951177
+//The Path of Burning Steps
+//dimwishlist:item=1453120846
+//Citan's Ramparts
+//dimwishlist:item=1190497097
+//Ashen Wake
+//dimwishlist:item=809007410
+//ACTIUM WAR RIG
+//dimwishlist:item=1591207518
+//PEACEKEEPERS
+//dimwishlist:item=3539357319
+//Precious Scars
+//dimwishlist:item=3974038291
+//Eternal Warrior
+//dimwishlist:item=2808156426
+
+
+
+//CREST OF ALPHA LUPI 
+//dimwishlist:item=-1591207519
+//MASK OF THE QUIET ONE 
+//dimwishlist:item=-3883866764
+//ACD/0 FEEDBACK FENCE
+//dimwishlist:item=-2563444729
+//DOOM FANG PAULDRON 
+//dimwishlist:item=-241462141
+//NO BACKUP PLANS
+//dimwishlist:item=-3267996858
+//DUNEMARCHERS
+//dimwishlist:item=-1160559849
+//Antaeus Wards
+//dimwishlist:item=-1315823811
+//Khepri's Horn
+//dimwishlist:item=-2384488862
+//Icefall Mantle
+//dimwishlist:item=-1467044898
+//Stronghold
+//dimwishlist:item=-2240152949
+//Wormgod Caress
+//dimwishlist:item=-1734844651
+//Armamentarium
+//dimwishlist:item=-3874247549
+//Mk. 44 Stand Asides
+//dimwishlist:item=-136355432
+//Peregrine Greaves
+//dimwishlist:item=-2255796155
+//Phoenix Cradle
+//dimwishlist:item=-1537074069
+//Assassin's Cowl
+//dimwishlist:item=-2203146422
+//Severance Enclosure
+//dimwishlist:item=-2326396534
+//HALLOWFIRE HEART 
+//dimwishlist:item=-1192890598
+//AN INSURMOUNTABLE SKULLFORT
+//dimwishlist:item=-3216110440
+
+
+// 														Hunter
+
+// 							Tier S/A/B
+// 							Tier C/D
+
+
+//**********************************************************************************************************************************
+***********************************************************  To Sort  ********************************************************
+//**********************************************************************************************************************************
+
+
+//ST0MP-EE5
+//dimwishlist:item=193869520
+//ORPHEUS RIG
+//dimwishlist:item=193869523
+//Wormhusk Crown
+//dimwishlist:item=3562696927
+//Omnioculus
+//dimwishlist:item=1935198785#notes:Ross: PvE - Tier: S+ - Grants an extra smoke bomb charge, 50% damage reduction whilst invisible which also applies to teammates, cloaking an ally grants 50% Melee Energy per ally. "Heart of the pack" buff increases mobility, recovery and resilience by 3.4 tiers PER STACK of "Heart of the Pack" (max of 3x).  
+//GEMINI JESTER
+//dimwishlist:item=1163283805
+//Celestial Nighthawk
+//dimwishlist:item=1321354573
+//AEON Swift
+//dimwishlist:item=3942036043#notes: PvE - Tier: S+ - Extremely useful for Grandmaster nightfalls and other endgame content
+//THE DRAGON'S SHADOW
+//dimwishlist:item=2766109874
+//LUCKY PANTS
+//dimwishlist:item=193869522
+//RADIANT DANCE MACHINES
+//dimwishlist:item=1702288800
+//Graviton Forfeit
+//dimwishlist:item=2773056939
+//Mask of Bakris
+//dimwishlist:item=1619425569
+//Shards of Galanor
+//dimwishlist:item=691578979
+//Gwisin Vest
+//dimwishlist:item=1474735276
+//Fr0st-EE5
+//dimwishlist:item=609852545
+
+
+
+//FOETRACER 
+//dimwishlist:item=-896224899
+//KNUCKLEHEAD RADAR
+//dimwishlist:item=-1321354572
+//MECHANEER'S TRICKSLEEVES
+//dimwishlist:item=-1734144409
+//YOUNG AHAMKARA'S SPINE
+//dimwishlist:item=-475652357
+//Athrys's Embrace
+//dimwishlist:item=-2415768376
+//Khepri's Sting
+//dimwishlist:item=-2757274117
+//Shinobu's Vow
+//dimwishlist:item=-1053737370
+//Liar's Handshake
+//dimwishlist:item=-4165919945
+//Oathkeeper
+//dimwishlist:item=-691578978
+//Sealed Ahamkara Grasps
+//dimwishlist:item=-1688602431
+//Young Ahamkara's Spine
+//dimwishlist:item=-475652357
+//The Sixth Coyote
+//dimwishlist:item=-1474735277
+//Star-Eater Scales
+//dimwishlist:item=-1001356380
+//The Bombardiers
+//dimwishlist:item=-1219761634
+//Raiju's Harness
+//dimwishlist:item=-2268523867
+//Ophidia Spathe
+//dimwishlist:item=-978537162
+//RAIDEN FLUX
+//dimwishlist:item=2766109872
+//Lucky Raspberry
+//dimwishlist:item=903984858

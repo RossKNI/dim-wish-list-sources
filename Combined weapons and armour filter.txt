@@ -1,5 +1,5 @@
-("ross combined filter: highlights weapons with poor rolls & armour with poor stats (not top 2.5% roll) |
-Update version: #0029.4" 
+("ross combined filter
+Version: 2.95" 
 or
 (
 	(
@@ -14,7 +14,10 @@ or
 
 		-(maxbasestatvalue:any)
 		-(basestat:any:>=23)
-		-(basestat:total:>=65)
+		-(is:inloadout)
+		(is:trashlist -is:exotic)
+		(is:trashlist is:exotic is:weapon kills:<1)
+		(is:trashlist is:exotic is:armor)
 
 		-(basestat:highest&secondhighest:>=19)
 
