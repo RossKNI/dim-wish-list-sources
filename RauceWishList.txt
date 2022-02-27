@@ -1,4 +1,4 @@
-title: v5.003 - WITCH QUEEN | Compiled collection of god/recommended rolls for controller users
+title: v5.004 - WITCH QUEEN | Compiled collection of god/recommended rolls for controller users
 
 description: Maintained by Ross - community wish list (WL) with PC roles removed and other amendments/corrections. The WL can used to to assist with locking and storing the best roll(s) of each weapon. This means that the WL does NOT just contain meta weapons for this specific season, simply the best roles of each weapon in the game.
 
@@ -1091,30 +1091,84 @@ dimwishlist:item=927567426&perks=1409206216,169755979
 dimwishlist:item=927567426&perks=1658784563,2000295559
 dimwishlist:item=927567426&perks=1658784563,2848615171
 dimwishlist:item=927567426&perks=1658784563,169755979
-dimwishlist:item=927567426&perks=671806388,2000295559
-dimwishlist:item=927567426&perks=671806388,2848615171
-dimwishlist:item=927567426&perks=671806388,169755979
-dimwishlist:item=927567426&perks=595108252,2000295559
-dimwishlist:item=927567426&perks=595108252,2848615171
-dimwishlist:item=927567426&perks=595108252,169755979
 
 
 // Perses-D ()
-dimwishlist:item=1019000888&perks=247725512,124408337
-dimwishlist:item=1019000888&perks=247725512,3038247973
-dimwishlist:item=1019000888&perks=247725512,47981717
-dimwishlist:item=1019000888&perks=247725512,2896038713
-dimwishlist:item=1019000888&perks=247725512,4049631843
-dimwishlist:item=1019000888&perks=3700496672,124408337
-dimwishlist:item=1019000888&perks=3700496672,3038247973
-dimwishlist:item=1019000888&perks=3700496672,47981717
-dimwishlist:item=1019000888&perks=3700496672,2896038713
-dimwishlist:item=1019000888&perks=3700496672,4049631843
-dimwishlist:item=1019000888&perks=1428297954,124408337
-dimwishlist:item=1019000888&perks=1428297954,3038247973
-dimwishlist:item=1019000888&perks=1428297954,47981717
-dimwishlist:item=1019000888&perks=1428297954,2896038713
-dimwishlist:item=1019000888&perks=1428297954,4049631843
+dimwishlist:item=1019000888&perks=3142289711,247725512,124408337
+dimwishlist:item=1019000888&perks=3142289711,247725512,3038247973
+dimwishlist:item=1019000888&perks=3142289711,247725512,47981717
+dimwishlist:item=1019000888&perks=3142289711,247725512,2896038713
+dimwishlist:item=1019000888&perks=3142289711,247725512,4049631843
+dimwishlist:item=1019000888&perks=3142289711,3700496672,124408337
+dimwishlist:item=1019000888&perks=3142289711,3700496672,3038247973
+dimwishlist:item=1019000888&perks=3142289711,3700496672,47981717
+dimwishlist:item=1019000888&perks=3142289711,3700496672,2896038713
+dimwishlist:item=1019000888&perks=3142289711,3700496672,4049631843
+dimwishlist:item=1019000888&perks=3142289711,1428297954,124408337
+dimwishlist:item=1019000888&perks=3142289711,1428297954,3038247973
+dimwishlist:item=1019000888&perks=3142289711,1428297954,47981717
+dimwishlist:item=1019000888&perks=3142289711,1428297954,2896038713
+dimwishlist:item=1019000888&perks=3142289711,1428297954,4049631843
+dimwishlist:item=1019000888&perks=106909392,247725512,124408337
+dimwishlist:item=1019000888&perks=106909392,247725512,3038247973
+dimwishlist:item=1019000888&perks=106909392,247725512,47981717
+dimwishlist:item=1019000888&perks=106909392,247725512,2896038713
+dimwishlist:item=1019000888&perks=106909392,247725512,4049631843
+dimwishlist:item=1019000888&perks=106909392,3700496672,124408337
+dimwishlist:item=1019000888&perks=106909392,3700496672,3038247973
+dimwishlist:item=1019000888&perks=106909392,3700496672,47981717
+dimwishlist:item=1019000888&perks=106909392,3700496672,2896038713
+dimwishlist:item=1019000888&perks=106909392,3700496672,4049631843
+dimwishlist:item=1019000888&perks=106909392,1428297954,124408337
+dimwishlist:item=1019000888&perks=106909392,1428297954,3038247973
+dimwishlist:item=1019000888&perks=106909392,1428297954,47981717
+dimwishlist:item=1019000888&perks=106909392,1428297954,2896038713
+dimwishlist:item=1019000888&perks=106909392,1428297954,4049631843
+dimwishlist:item=1019000888&perks=1087426260,247725512,124408337
+dimwishlist:item=1019000888&perks=1087426260,247725512,3038247973
+dimwishlist:item=1019000888&perks=1087426260,247725512,47981717
+dimwishlist:item=1019000888&perks=1087426260,247725512,2896038713
+dimwishlist:item=1019000888&perks=1087426260,247725512,4049631843
+dimwishlist:item=1019000888&perks=1087426260,3700496672,124408337
+dimwishlist:item=1019000888&perks=1087426260,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1087426260,3700496672,47981717
+dimwishlist:item=1019000888&perks=1087426260,3700496672,2896038713
+dimwishlist:item=1019000888&perks=1087426260,3700496672,4049631843
+dimwishlist:item=1019000888&perks=1087426260,1428297954,124408337
+dimwishlist:item=1019000888&perks=1087426260,1428297954,3038247973
+dimwishlist:item=1019000888&perks=1087426260,1428297954,47981717
+dimwishlist:item=1019000888&perks=1087426260,1428297954,2896038713
+dimwishlist:item=1019000888&perks=1087426260,1428297954,4049631843
+dimwishlist:item=1019000888&perks=2420895100,247725512,124408337
+dimwishlist:item=1019000888&perks=2420895100,247725512,3038247973
+dimwishlist:item=1019000888&perks=2420895100,247725512,47981717
+dimwishlist:item=1019000888&perks=2420895100,247725512,2896038713
+dimwishlist:item=1019000888&perks=2420895100,247725512,4049631843
+dimwishlist:item=1019000888&perks=2420895100,3700496672,124408337
+dimwishlist:item=1019000888&perks=2420895100,3700496672,3038247973
+dimwishlist:item=1019000888&perks=2420895100,3700496672,47981717
+dimwishlist:item=1019000888&perks=2420895100,3700496672,2896038713
+dimwishlist:item=1019000888&perks=2420895100,3700496672,4049631843
+dimwishlist:item=1019000888&perks=2420895100,1428297954,124408337
+dimwishlist:item=1019000888&perks=2420895100,1428297954,3038247973
+dimwishlist:item=1019000888&perks=2420895100,1428297954,47981717
+dimwishlist:item=1019000888&perks=2420895100,1428297954,2896038713
+dimwishlist:item=1019000888&perks=2420895100,1428297954,4049631843
+dimwishlist:item=1019000888&perks=3177308360,247725512,124408337
+dimwishlist:item=1019000888&perks=3177308360,247725512,3038247973
+dimwishlist:item=1019000888&perks=3177308360,247725512,47981717
+dimwishlist:item=1019000888&perks=3177308360,247725512,2896038713
+dimwishlist:item=1019000888&perks=3177308360,247725512,4049631843
+dimwishlist:item=1019000888&perks=3177308360,3700496672,124408337
+dimwishlist:item=1019000888&perks=3177308360,3700496672,3038247973
+dimwishlist:item=1019000888&perks=3177308360,3700496672,47981717
+dimwishlist:item=1019000888&perks=3177308360,3700496672,2896038713
+dimwishlist:item=1019000888&perks=3177308360,3700496672,4049631843
+dimwishlist:item=1019000888&perks=3177308360,1428297954,124408337
+dimwishlist:item=1019000888&perks=3177308360,1428297954,3038247973
+dimwishlist:item=1019000888&perks=3177308360,1428297954,47981717
+dimwishlist:item=1019000888&perks=3177308360,1428297954,2896038713
+dimwishlist:item=1019000888&perks=3177308360,1428297954,4049631843
 
 
 // Glacioclasm ()
@@ -1446,10 +1500,6 @@ dimwishlist:item=1141547457&perks=2946784966,699525795
 dimwishlist:item=1141547457&perks=2946784966,591790007
 dimwishlist:item=1141547457&perks=2946784966,1015611457
 dimwishlist:item=1141547457&perks=2946784966,11551321
-dimwishlist:item=1141547457&perks=671806388,699525795
-dimwishlist:item=1141547457&perks=671806388,591790007
-dimwishlist:item=1141547457&perks=671806388,1015611457
-dimwishlist:item=1141547457&perks=671806388,11551321
 
 
 // The Messenger (Adept) ()
@@ -2251,6 +2301,110 @@ dimwishlist:item=1526296434&perks=1968497646,1645158859,1015611457
 dimwishlist:item=1526296434&perks=1968497646,1645158859,2923251173
 dimwishlist:item=1526296434&perks=1968497646,3755250867,1015611457
 dimwishlist:item=1526296434&perks=1968497646,3755250867,2923251173
+
+
+// Recurrent Impact ()
+//notes: Rauce: PvE
+dimwishlist:item=1572896086&perks=1428297954,395388285
+dimwishlist:item=1572896086&perks=1428297954,1771339417
+dimwishlist:item=1572896086&perks=1428297954,1890422124
+dimwishlist:item=1572896086&perks=1428297954,1523649716
+dimwishlist:item=1572896086&perks=1428297954,1171887445
+dimwishlist:item=1572896086&perks=1428297954,3007133316
+dimwishlist:item=1572896086&perks=1428297954,4104185692
+dimwishlist:item=1572896086&perks=1428297954,4049631843
+dimwishlist:item=1572896086&perks=1428297954,859780267
+dimwishlist:item=1572896086&perks=1428297954,124408337
+dimwishlist:item=1572896086&perks=2014892510,395388285
+dimwishlist:item=1572896086&perks=2014892510,1771339417
+dimwishlist:item=1572896086&perks=2014892510,1890422124
+dimwishlist:item=1572896086&perks=2014892510,1523649716
+dimwishlist:item=1572896086&perks=2014892510,1171887445
+dimwishlist:item=1572896086&perks=2014892510,3007133316
+dimwishlist:item=1572896086&perks=2014892510,4104185692
+dimwishlist:item=1572896086&perks=2014892510,4049631843
+dimwishlist:item=1572896086&perks=2014892510,859780267
+dimwishlist:item=1572896086&perks=2014892510,124408337
+dimwishlist:item=1572896086&perks=4245865861,395388285
+dimwishlist:item=1572896086&perks=4245865861,1771339417
+dimwishlist:item=1572896086&perks=4245865861,1890422124
+dimwishlist:item=1572896086&perks=4245865861,1523649716
+dimwishlist:item=1572896086&perks=4245865861,1171887445
+dimwishlist:item=1572896086&perks=4245865861,3007133316
+dimwishlist:item=1572896086&perks=4245865861,4104185692
+dimwishlist:item=1572896086&perks=4245865861,4049631843
+dimwishlist:item=1572896086&perks=4245865861,859780267
+dimwishlist:item=1572896086&perks=4245865861,124408337
+dimwishlist:item=1572896086&perks=1820235745,395388285
+dimwishlist:item=1572896086&perks=1820235745,1771339417
+dimwishlist:item=1572896086&perks=1820235745,1890422124
+dimwishlist:item=1572896086&perks=1820235745,1523649716
+dimwishlist:item=1572896086&perks=1820235745,1171887445
+dimwishlist:item=1572896086&perks=1820235745,3007133316
+dimwishlist:item=1572896086&perks=1820235745,4104185692
+dimwishlist:item=1572896086&perks=1820235745,4049631843
+dimwishlist:item=1572896086&perks=1820235745,859780267
+dimwishlist:item=1572896086&perks=1820235745,124408337
+dimwishlist:item=1572896086&perks=2308090567,395388285
+dimwishlist:item=1572896086&perks=2308090567,1771339417
+dimwishlist:item=1572896086&perks=2308090567,1890422124
+dimwishlist:item=1572896086&perks=2308090567,1523649716
+dimwishlist:item=1572896086&perks=2308090567,1171887445
+dimwishlist:item=1572896086&perks=2308090567,3007133316
+dimwishlist:item=1572896086&perks=2308090567,4104185692
+dimwishlist:item=1572896086&perks=2308090567,4049631843
+dimwishlist:item=1572896086&perks=2308090567,859780267
+dimwishlist:item=1572896086&perks=2308090567,124408337
+dimwishlist:item=1572896086&perks=2869569095,395388285
+dimwishlist:item=1572896086&perks=2869569095,1771339417
+dimwishlist:item=1572896086&perks=2869569095,1890422124
+dimwishlist:item=1572896086&perks=2869569095,1523649716
+dimwishlist:item=1572896086&perks=2869569095,1171887445
+dimwishlist:item=1572896086&perks=2869569095,3007133316
+dimwishlist:item=1572896086&perks=2869569095,4104185692
+dimwishlist:item=1572896086&perks=2869569095,4049631843
+dimwishlist:item=1572896086&perks=2869569095,859780267
+dimwishlist:item=1572896086&perks=2869569095,124408337
+dimwishlist:item=1572896086&perks=3096702027,395388285
+dimwishlist:item=1572896086&perks=3096702027,1771339417
+dimwishlist:item=1572896086&perks=3096702027,1890422124
+dimwishlist:item=1572896086&perks=3096702027,1523649716
+dimwishlist:item=1572896086&perks=3096702027,1171887445
+dimwishlist:item=1572896086&perks=3096702027,3007133316
+dimwishlist:item=1572896086&perks=3096702027,4104185692
+dimwishlist:item=1572896086&perks=3096702027,4049631843
+dimwishlist:item=1572896086&perks=3096702027,859780267
+dimwishlist:item=1572896086&perks=3096702027,124408337
+dimwishlist:item=1572896086&perks=1658784563,395388285
+dimwishlist:item=1572896086&perks=1658784563,1771339417
+dimwishlist:item=1572896086&perks=1658784563,1890422124
+dimwishlist:item=1572896086&perks=1658784563,1523649716
+dimwishlist:item=1572896086&perks=1658784563,1171887445
+dimwishlist:item=1572896086&perks=1658784563,3007133316
+dimwishlist:item=1572896086&perks=1658784563,4104185692
+dimwishlist:item=1572896086&perks=1658784563,4049631843
+dimwishlist:item=1572896086&perks=1658784563,859780267
+dimwishlist:item=1572896086&perks=1658784563,124408337
+dimwishlist:item=1572896086&perks=1583705720,395388285
+dimwishlist:item=1572896086&perks=1583705720,1771339417
+dimwishlist:item=1572896086&perks=1583705720,1890422124
+dimwishlist:item=1572896086&perks=1583705720,1523649716
+dimwishlist:item=1572896086&perks=1583705720,1171887445
+dimwishlist:item=1572896086&perks=1583705720,3007133316
+dimwishlist:item=1572896086&perks=1583705720,4104185692
+dimwishlist:item=1572896086&perks=1583705720,4049631843
+dimwishlist:item=1572896086&perks=1583705720,859780267
+dimwishlist:item=1572896086&perks=1583705720,124408337
+dimwishlist:item=1572896086&perks=1409206216,395388285
+dimwishlist:item=1572896086&perks=1409206216,1771339417
+dimwishlist:item=1572896086&perks=1409206216,1890422124
+dimwishlist:item=1572896086&perks=1409206216,1523649716
+dimwishlist:item=1572896086&perks=1409206216,1171887445
+dimwishlist:item=1572896086&perks=1409206216,3007133316
+dimwishlist:item=1572896086&perks=1409206216,4104185692
+dimwishlist:item=1572896086&perks=1409206216,4049631843
+dimwishlist:item=1572896086&perks=1409206216,859780267
+dimwishlist:item=1572896086&perks=1409206216,124408337
 
 
 // Redback-5si ()
@@ -5171,6 +5325,9 @@ dimwishlist:item=4255171531&perks=3798852852,2985827016,3977735242,1546637391
 dimwishlist:item=4255171531&perks=3798852852,2985827016,2869569095,3194351027
 dimwishlist:item=4255171531&perks=3798852852,2985827016,2869569095,2284787283
 dimwishlist:item=4255171531&perks=3798852852,2985827016,2869569095,1546637391
+
+
+
 
 
 
@@ -49021,106 +49178,8 @@ dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,1015611457#note
 dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
 
 
-title:@chrisfried x [redacted] coming through with a trash list
-description:A must-not-keep list of gear, originally found in top secret group chats.
+title:Trash list
+description: Trash list 🤢🤢🤢
 
 //notes:🤢🤢🤢
 
-// aggressive hand cannons
-dimwishlist:item=-2824241403#notes:Community: Bad Pukes XF4354 🤢🤢🤢 (Duke is best in stats and perks for PvE, Loud Lullaby has some newer perks, Warden's Law has Feeding Frenzy, Thin Line is uniquely energy & can do decent perks)
-dimwishlist:item=-4292849692#notes:Community: Crimil's Dapuke 🤢🤢🤢 (Duke is best in stats and perks for PvE, Loud Lullaby has some newer perks, Warden's Law has Feeding Frenzy, Thin Line is uniquely energy & can do decent perks)
-dimwishlist:item=-4211534763#notes:Community: Pukebina-D 🤢🤢🤢 (Duke is best in stats and perks for PvE, Loud Lullaby has some newer perks, Warden's Law has Feeding Frenzy, Thin Line is uniquely energy & can do decent perks)
-
-// adaptive hand cannons
-dimwishlist:item=-2112909415#notes:Community: Ten Pukes 🤢🤢🤢 (Kill Clip or Explosive Payload on Better Devils are notably better than Rampage on these two. Ancient Gospel is nearly on this list but Rapid Hit and being Solar keep it off)
-dimwishlist:item=-2429822977#notes:Community: Auspuker 🤢🤢🤢 (Kill Clip or Explosive Payload on Better Devils are notably better than Rampage on these two. Ancient Gospel is nearly on this list but Rapid Hit and being Solar keep it off)
-
-// precision SMGs
-dimwishlist:item=-2422664927#notes:Community: Atapukea-D XG1992 🤢🤢🤢 (Antiope is identical to Atalanta in perks with better stats, Moment has much better perks than Bad Reputation)
-dimwishlist:item=-2105827099#notes:Community: Bad Repuketation 🤢🤢🤢 (Antiope is identical to Atalanta in perks with better stats, Moment has much better perks than Bad Reputation)
-
-// adaptive SMGs
-dimwishlist:item=-4227181568#notes:Community: Exit Pukegy 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
-dimwishlist:item=-1865351684#notes:Community: The Hero's Pukeden 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
-dimwishlist:item=-2909905776#notes:Community: The Hero's Pukeden 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
- 
-// lightweight SMGs
-dimwishlist:item=-174192097#notes:Community: CALUS Mini-Puke 🤢🤢🤢 (Garbage perks, very strong competition)
-
-// high-impact scout rifle
-dimwishlist:item=-2278995296#notes:Community: Does Not Compuke 🤢🤢🤢 (Imperative or Calusea do PvE better, Talons does PvP better, and Transfiguration does both pretty well)
-dimwishlist:item=-3957603605#notes:Community: Wrong Side of Puke 🤢🤢🤢 (Imperative or Calusea do PvE better, Talons does PvP better, and Transfiguration does both pretty well)
-dimwishlist:item=-3501969491#notes:Community: The Pike and Run 🤢🤢🤢 (Imperative or Calusea do PvE better, Talons does PvP better, and Transfiguration does both pretty well)
-
-// precision scout rifle
-dimwishlist:item=-1960218487#notes:Community: Nameless Pukenight 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
-dimwishlist:item=-3040742682#notes:Community: Nameless Pukenight 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
-dimwishlist:item=-20025671#notes:Community: Pukego-45 XK5094 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
-dimwishlist:item=-2034817450#notes:Community: Distant Repuketion 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
- 
-//lightweight scout rifle
-dimwishlist:item=-3242168339#notes:Community: Vouchpuke 🤢🤢🤢 (bad perks but it *is* unique in slot)
- 
-//lightweight pulse rifle
-dimwishlist:item=-339163900#notes:Community: Nightpuke 🤢🤢🤢 (Chattering Bone is just better, weak archetype)
-dimwishlist:item=-792755504#notes:Community: Nightpuke 🤢🤢🤢 (Chattering Bone is just better, weak archetype)
-
-// high-impact auto rifle
-dimwishlist:item=-1952163498#notes:Community: Plupukefect 🤢🤢🤢 (all-around worse stats and perks than Halfdan or Gahlran's Right Hand)
- 
-// precision auto rifle
-dimwishlist:item=-528834068#notes:Community: BrayTech Pukewolf 🤢🤢🤢 (just a bad archetype)
-dimwishlist:item=-3645283765#notes:Community: BrayTech Pukewolf 🤢🤢🤢 (just a bad archetype)
-dimwishlist:item=-640114618#notes:Community: Tigerpuke 🤢🤢🤢 (just a bad archetype)
-dimwishlist:item=-1789347249#notes:Community: Hazard of the Puke 🤢🤢🤢 (just a bad archetype)
-dimwishlist:item=-3829285960#notes:Community: Horror Pukey 🤢🤢🤢 (just a bad archetype)
-
-// aggressive shotgun
-dimwishlist:item=-2957367743#notes:Community: Toil and Trouble and Puke 🤢🤢🤢 (Can't beat Imperial Decree in any category, Opening Shot/12P justifies Last Man Standing)
-
-// aggressive sniper
-dimwishlist:item=-3100452337#notes:Community: Dreaded Puketure 🤢🤢🤢 (Revoker is obviously good, BotF can get Opening Shot over on Revoker, and Tatara can do genesis (arc) & unique in slot. Show of Force can roll good but archetype isn't worth it compared to Tranquility/Long Shadow.)
-dimwishlist:item=-4148143418#notes:Community: Show of Puke XF4865 🤢🤢🤢 (Revoker is obviously good, BotF can get Opening Shot over on Revoker, and Tatara can do genesis (arc) & unique in slot. Show of Force can roll good but archetype isn't worth it compared to Tranquility/Long Shadow.)
-
-// adaptive sniper
-dimwishlist:item=-2154059444#notes:Community: The Long Goodpuke 🤢🤢🤢 (Fate Cries Foul & Elegy-49 are equivalents w/ Genesis (void), Tranquility and Sole Survivor have Firing Line, Long Shadow has field prep/triple tap for longevity, Beloved has good perks)
-
-// high-impact fusion rifle
-dimwishlist:item=-930590127#notes:Community: The Wizened Repuke 🤢🤢🤢 (unless you absolutely must have Demolitionist, Loaded Question or Erentil are much better)
-dimwishlist:item=-2961807684#notes:Community: The Wizened Repuke 🤢🤢🤢 (unless you absolutely must have Demolitionist, Loaded Question or Erentil are much better)
-
-// precision fusion rifle
-dimwishlist:item=-2753269585#notes:Community: Tempered Dynapuke 🤢🤢🤢 (Epicurean is stacked with the best PvE perks on a fusion, save for Loaded Question)
-
-// adaptive fusion rifle
-dimwishlist:item=-394810086#notes:Community: Dream Puker 🤢🤢🤢 (can't beat Techeun Force)
-dimwishlist:item=-2931957300#notes:Community: Dream Puker 🤢🤢🤢 (can't beat Techeun Force)
-
-// lightweight grenade launcher
-dimwishlist:item=-3745974521#notes:The Militia's Pukeright 🤢🤢🤢 (it's not Mountaintop and it can't even get Demolitionist like Orewing's can)
-
-// adaptive grenade launcher
-dimwishlist:item=-195440257#notes:Community: Puke of the Game 🤢🤢🤢 (can't match Doomsday perks which is already weak compared to Wendigo and Aggressives)
-dimwishlist:item=-2621637518#notes:Community: Puke of the Game 🤢🤢🤢 (can't match Doomsday perks which is already weak compared to Wendigo and Aggressives)
-dimwishlist:item=-218335759#notes:Community: Puke Transit 🤢🤢🤢 (can't match Doomsday perks which is already weak compared to Wendigo and Aggressives)
-dimwishlist:item=-301362381#notes:Community: Through Puke and Puke 🤢🤢🤢 (can't match Doomsday perks which is already weak compared to Wendigo and Aggressives)
-
-// aggressive grenade launcher
-dimwishlist:item=-1757129747#notes:Community: Acanthpukea-D XK8434 🤢🤢🤢 (no full court, and redundant elements to Love and Death or Wendigo)
-dimwishlist:item=-4146702548#notes:Community: Pukerageous Fortune 🤢🤢🤢 (no full court, and redundant elements to Love and Death or Wendigo)
-dimwishlist:item=-301362380#notes:Community: Terran Puke 🤢🤢🤢 (no full court, and redundant elements to Love and Death or Wendigo)
-
-// rocket launcher
-// dimwishlist:item=-13#notes:Community: Rocket launchers in general 🤢🤢🤢 ( don't care about these. Sleepless is good, curated Bad Omens is good, Demolitionist Cluster Heretic is good)
-
-// high-impact machine gun
-dimwishlist:item=-1642384931#notes:Community: Fixed Pukes 🤢🤢🤢 (Weak archetype but curated Bane is pretty good)
-dimwishlist:item=-1496419775#notes:Community: Puke of Sorrow 🤢🤢🤢 (Weak archetype but curated Bane is pretty good)
-
-// adaptive machine gun
-dimwishlist:item=-66875353#notes:Community: Trash 🤢 - outclassed severely by Delirium and Edgewise
-dimwishlist:item=-1220931350#notes:Community: Trash 🤢 - outclassed severely by Delirium and Edgewise
-dimwishlist:item=-3325778512#notes:Community: Trash 🤢 - outclassed severely by Delirium and Edgewise
- 
-// rapid-fire machine gun
-dimwishlist:item=-3369545945#notes:Community: Tempukal Clause 🤢🤢🤢 (Unless you *really* hate Hammerhead or Bane of Sorrow, this is redundant vs. better guns)
