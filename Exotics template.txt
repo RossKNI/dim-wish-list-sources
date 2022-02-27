@@ -184,6 +184,8 @@
 //dimwishlist:item=-3766045777#notes:Ross: Trash in the current sandbox
 //The Queenbreaker
 //dimwishlist:item=-2044500762#notes:Ross: Trash in the current sandbox
+//Osteo Striga 
+//dimwishlist:item=46524085#notes:Ross: PvE
 
 
 //**********************************************************************************************************************************
