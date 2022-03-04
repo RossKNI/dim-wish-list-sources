@@ -1,4 +1,4 @@
-("v5.29" 
+("v5.2902" 
 or
 (
 (
@@ -33,7 +33,11 @@ or
 or  
 	(stat:total:<60 -is:exotic is:armor)
 or
-	(-is:wishlist is:weapon -is:exotic -is:deepsight -is:crafted)
+	(-is:wishlist is:weapon -is:exotic -is:deepsight -deepsight:complete -is:crafted -source:raid)
+or
+	(-is:wishlist is:deepsight -deepsight:complete -is:heavy )
+or	
+	(is:trashlist is:exotic is:weapon kills:<1)
 )
 -(is:tagged -tag:junk) -is:maxpower -power:pinnaclecap -is:inloadout -is:masterwork -(is:armor -is:armor2.0) -(is:armor source:events
 )  or (tag:junk -is:maxpowerloadout)
