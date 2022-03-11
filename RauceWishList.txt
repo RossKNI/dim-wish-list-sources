@@ -1,4 +1,4 @@
-title: v5.0082 - WITCH QUEEN | Compiled collection of god/recommended rolls for controller users
+title: v5.00821 - WITCH QUEEN | Compiled collection of god/recommended rolls for controller users
 
 description: Maintained by Ross - community wish list (WL) with PC roles removed and other amendments/corrections. The WL can used to to assist with locking and storing the best roll(s) of each weapon.
 
@@ -15,7 +15,7 @@ description: Maintained by Ross - community wish list (WL) with PC roles removed
 //**********************************************************************************************************************************************
 
 // Eyasluna ()
-//notes: Ross: PvP - Tier: S
+//notes: Ross: PvP
 dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,588594999
 dimwishlist:item=235827225&perks=1926090094,1885400500,1168162263,588594999
 dimwishlist:item=235827225&perks=1926090094,1885400500,247725512,588594999
@@ -67,7 +67,7 @@ dimwishlist:item=235827225&perks=1926090093,1968497646,1428297954,588594999
 
 
 // Eyasluna ()
-//notes: Ross: PvE - Tier: S
+//notes: Ross: PvE
 dimwishlist:item=235827225&perks=1926090094,1885400500,3108830275,124408337
 dimwishlist:item=235827225&perks=1926090094,1885400500,3108830275,3523296417
 dimwishlist:item=235827225&perks=1926090094,1885400500,1168162263,124408337
@@ -179,7 +179,7 @@ dimwishlist:item=235827225&perks=1926090091,1968497646,1428297954,3523296417
 
 
 // Eyasluna ()
-//notes: Ross: PvE - Tier: S+ - THE godroll for PvE. Extremely good synergy when utilising a Stasis subclass 
+//notes: Ross: PvE - THE godroll for PvE. Extremely good synergy when utilising a Stasis subclass 
 dimwishlist:item=235827225&perks=1926090094,1885400500,3108830275,124408337
 dimwishlist:item=235827225&perks=1926090094,1561002382,3108830275,124408337
 dimwishlist:item=235827225&perks=1926090094,1968497646,3108830275,124408337
@@ -231,12 +231,12 @@ dimwishlist:item=235827225&perks=1926090091,2420895100,3108830275,124408337
 
 
 // Main Ingredient ()
-//notes: Ross: PvP - Tier: S+ - Xur godroll - Consistent kill range at 21m w/under pressure active
+//notes: Ross: PvP
 dimwishlist:item=253196586&perks=2405638014,3868766766,1645158859,1890422124
 
 
 // Main Ingredient ()
-//notes: Ross: PvP - Tier: S
+//notes: Ross: PvP
 dimwishlist:item=253196586&perks=2405638014,3868766766,280464955,1890422124
 dimwishlist:item=253196586&perks=2405638014,3868766766,280464955,2846385770
 dimwishlist:item=253196586&perks=2405638014,3868766766,280464955,2213355989
@@ -1679,7 +1679,7 @@ dimwishlist:item=613334176&perks=855168139,2610012052
 
 
 // Dust Rock Blues ()
-//notes: Ross: PvP - Tier: S
+//notes: Ross: PvP
 dimwishlist:item=636912560&perks=1047830412,3142289711,3161816588,957782887
 dimwishlist:item=636912560&perks=1047830412,3142289711,3161816588,3300816228
 dimwishlist:item=636912560&perks=1047830412,3142289711,3161816588,3425386926
@@ -2449,7 +2449,7 @@ dimwishlist:item=1019000888&perks=2420895100,3700496672,2896038713
 
 
 // Glacioclasm ()
-//notes: Ross: PvE - Tier: S
+//notes: Ross: PvE
 dimwishlist:item=1030895163&perks=839105230,689005463,1820235745,1427256713
 dimwishlist:item=1030895163&perks=839105230,689005463,1820235745,2213355989
 dimwishlist:item=1030895163&perks=839105230,689005463,2869569095,1427256713
@@ -2780,7 +2780,7 @@ dimwishlist:item=1141547457&perks=2946784966,11551321
 
 
 // The Messenger (Adept) ()
-//notes: Ross: Tier: S+ - Extremely good PvP pulse in the current sandbox, especially when combined with Desperado. Desperado > Kill clip
+//notes: Ross: Tier: S+ - Desperado > Kill clip
 dimwishlist:item=1173780905&perks=3250034553,1885400500,247725512,3047969693
 dimwishlist:item=1173780905&perks=3250034553,1885400500,247725512,1015611457
 dimwishlist:item=1173780905&perks=3250034553,1885400500,2387244414,3047969693
@@ -2910,7 +2910,7 @@ dimwishlist:item=1173780905&perks=1467527085,1968497646,1570042021,1015611457
 
 
 // Felwinter's Lie ()
-//notes: Ross: PvP - Tier: S+  - The best energy legendary PvP shotgun in the game. Contains the intrinsic roll "shot package" which reduces your pellet spread, meaning one shot kills are more consistent at range.
+//notes: Ross: PvP
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,47981717
@@ -3173,19 +3173,13 @@ dimwishlist:item=1399109800&perks=
 
 
 // Reed's Regret ()
-//notes: Ross: PvE - Tier: S+
-dimwishlist:item=1399243961&perks=689005463,3400784728,1771339417
-dimwishlist:item=1399243961&perks=689005463,3400784728,1546637391
-dimwishlist:item=1399243961&perks=689005463,2284787283,1771339417
-dimwishlist:item=1399243961&perks=689005463,2284787283,1546637391
-dimwishlist:item=1399243961&perks=1687452232,3400784728,1771339417
-dimwishlist:item=1399243961&perks=1687452232,3400784728,1546637391
-dimwishlist:item=1399243961&perks=1687452232,2284787283,1771339417
-dimwishlist:item=1399243961&perks=1687452232,2284787283,1546637391
-dimwishlist:item=1399243961&perks=2680121939,3400784728,1771339417
-dimwishlist:item=1399243961&perks=2680121939,3400784728,1546637391
-dimwishlist:item=1399243961&perks=2680121939,2284787283,1771339417
-dimwishlist:item=1399243961&perks=2680121939,2284787283,1546637391
+//notes: Ross: PvE
+dimwishlist:item=1399243961&perks=689005463,1771339417
+dimwishlist:item=1399243961&perks=689005463,1546637391
+dimwishlist:item=1399243961&perks=1687452232,1771339417
+dimwishlist:item=1399243961&perks=1687452232,1546637391
+dimwishlist:item=1399243961&perks=2680121939,1771339417
+dimwishlist:item=1399243961&perks=2680121939,1546637391
 
 
 // The Palindrome (Adept) ()
@@ -8470,6 +8464,9 @@ dimwishlist:item=4255171531&perks=3798852852,2822142346,2869569095,3194351027
 dimwishlist:item=4255171531&perks=3798852852,2822142346,2869569095,2284787283
 dimwishlist:item=4255171531&perks=3798852852,2822142346,2869569095,1546637391
 dimwishlist:item=4255171531&perks=3798852852,2822142346,2869569095,3927722942
+
+
+
 
 
 
