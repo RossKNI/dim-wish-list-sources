@@ -1,4 +1,4 @@
-title: v5.00823 - WITCH QUEEN | Compiled collection of god/recommended rolls for controller users
+title: v5.00824 - WITCH QUEEN | Compiled collection of god/recommended rolls for controller users
 
 description: Maintained by Ross - community wish list (WL) with PC roles removed and other amendments/corrections. The WL can used to to assist with locking and storing the best roll(s) of each weapon.
 
@@ -8452,43 +8452,43 @@ dimwishlist:item=4255171531&perks=3798852852,2822142346,2869569095,3927722942
 
 //		PvP Weapons
 //Ace of Spades
-//dimwishlist:item=347366834#notes:Ross: PvP - Tier:
+//dimwishlist:item=347366834#notes:Ross: PvP
 //The Chaperone
-//dimwishlist:item=3413860062#notes:Ross: PvP - Tier:
+//dimwishlist:item=3413860062#notes:Ross: PvP
 //Hawkmoon - Disabled due to possessing random rolls
 //dimwishlist:item=3856705927
 //Crimson
-//dimwishlist:item=3437746471#notes:Ross: PvP - Tier:
+//dimwishlist:item=3437746471#notes:Ross: PvP
 //The Last Word
-//dimwishlist:item=1364093401#notes:Ross: PvP - Tier:
+//dimwishlist:item=1364093401#notes:Ross: PvP
 //Thorn
-//dimwishlist:item=3973202132#notes:Ross: PvP - Tier:
+//dimwishlist:item=3973202132#notes:Ross: PvP
 //The Wardcliff Coil
-//dimwishlist:item=1508896098#notes:Ross: PvP - Tier:
+//dimwishlist:item=1508896098#notes:Ross: PvP
 //Duality
-//dimwishlist:item=3460576091#notes:Ross: PvP - Tier:
+//dimwishlist:item=3460576091#notes:Ross: PvP
 //No Time to Explain
-//dimwishlist:item=1594120904#notes:Ross: PvP - Tier:
+//dimwishlist:item=1594120904#notes:Ross: PvP
 //Vigilance Wing
-//dimwishlist:item=3628991659#notes:Ross: PvP - Tier:
+//dimwishlist:item=3628991659#notes:Ross: PvP
 //Lumina
-//dimwishlist:item=3512014804#notes:Ross: PvP - Tier:
+//dimwishlist:item=3512014804#notes:Ross: PvP
 //Jötunn
-//dimwishlist:item=417164956#notes:Ross: PvP - Tier: A - Easy to use, the go to weapon of choice if you don't have any thumbs and play with a Wii remote.
+//dimwishlist:item=417164956#notes:Ross: PvP - Easy to use, the go to weapon of choice if you don't have any thumbs and play with a Wii remote.
 //Lorentz Driver
-//dimwishlist:item=3761898871#notes:Ross: PvP - Tier: A+ - Received a nerf via flinch but still very good. Lorentz will spawn telemetry patterns with crits from any equipped gun, the tags on the barrel will display how many patterns you have (max of 3). You can refresh buff by picking up 1 more. When lagrangian sight is active, you can 1 hit body shot.
+//dimwishlist:item=3761898871#notes:Ross: PvP- Received a nerf via flinch but still very good. Lorentz will spawn telemetry patterns with crits from any equipped gun, the tags on the barrel will display how many patterns you have (max of 3). You can refresh buff by picking up 1 more. When lagrangian sight is active, you can 1 hit body shot.
 //Cloudstrike
-//dimwishlist:item=2603483885#notes:Ross: PvP - Tier: 
+//dimwishlist:item=2603483885#notes:Ross: PvP
 //Heir Apparent
-//dimwishlist:item=2084878005#notes:Ross: PvP - Tier: 
+//dimwishlist:item=2084878005#notes:Ross: PvP
 //Forerunner
-//dimwishlist:item=2179048386#notes:Ross: PvP - Tier: 
+//dimwishlist:item=2179048386#notes:Ross: PvP
 //Eyes of Tomorrow
-//dimwishlist:item=2399110176#notes:Ross: PvP - Tier: 
+//dimwishlist:item=2399110176#notes:Ross: PvP
 //Bastion
-//dimwishlist:item=2415517654#notes:Ross: PvP - Tier: 
+//dimwishlist:item=2415517654#notes:Ross: PvP
 // MIDA
-//dimwishlist:item=1331482397#notes:Ross: PvP - 
+//dimwishlist:item=1331482397#notes:Ross: PvP 
 // Bad Juju
 //dimwishlist:item=2816212794#notes:
 //Truth
@@ -8496,17 +8496,17 @@ dimwishlist:item=4255171531&perks=3798852852,2822142346,2869569095,3927722942
 //Dead Man's Tale - Disabled due to possessing random rolls
 //dimwishlist:item=3654674561
 //Lord of Wolves
-//dimwishlist:item=3413860063#notes:Ross: PvP - 
+//dimwishlist:item=3413860063#notes:Ross: PvP
 //The Jade Rabbit
-//dimwishlist:item=3844694310#notes:Ross: PvP - 
+//dimwishlist:item=3844694310#notes:Ross: PvP
 //The Colony
-//dimwishlist:item=3899270607#notes:Ross: PvP - 
+//dimwishlist:item=3899270607#notes:Ross: PvP
 // Fighting Lion
-//dimwishlist:item=3549153978#notes:Ross: PvP - 
+//dimwishlist:item=3549153978#notes:Ross: PvP
 //Traveler's Chosen
-//dimwishlist:item=1853180924#notes:Ross: PvP -
+//dimwishlist:item=1853180924#notes:Ross: PvP
 //Sturm
-//dimwishlist:item=2907129556#notes:Ross: PvP -
+//dimwishlist:item=2907129556#notes:Ross: Pv
 
 
 
@@ -8519,27 +8519,27 @@ dimwishlist:item=4255171531&perks=3798852852,2822142346,2869569095,3927722942
 //One Thousand Voices
 //dimwishlist:item=2069224589#notes:Ross:
 //Divinity
-//dimwishlist:item=4103414242#notes:Ross: - PvE - Tier: S - 
+//dimwishlist:item=4103414242#notes:Ross: - PvE
 //The Lament
 //dimwishlist:item=3487253372#notes:Ross:
 //Trinity Ghoul
 //dimwishlist:item=814876685#notes:Ross:
 //Witherhoard
-//dimwishlist:item=2357297366#notes:Ross: - PvE - Tier: S - 
+//dimwishlist:item=2357297366#notes:Ross: - PvE
 //Anarchy
 //dimwishlist:item=2376481550#notes:Ross:
 //Sleeper Simulant
-//dimwishlist:item=4036115577#notes:Ross: - PvE - Tier: S - 
+//dimwishlist:item=4036115577#notes:Ross: - PvE
 //Riskrunner
 //dimwishlist:item=3089417789#notes:Ross:
 //Whisper of the Worm
-//dimwishlist:item=1891561814#notes:Ross: - PvE - Tier: S - Extremely good option for long damage phases
+//dimwishlist:item=1891561814#notes:Ross: - PvE - Extremely good option for long damage phases
 //Le Monarque
 //dimwishlist:item=3588934839#notes:Ross:
 //Ticuu's Divination
 //dimwishlist:item=3260753130#notes:Ross:
 //Gjallarhorn
-//dimwishlist:item=1363886209#notes:Ross: - PvE - Tier: S - Good DPS option for medium length DPS phases, along with add clear. Enables fireteam to have exotic-level DPS with legendary rocket launchers, without dedicating exotic slot.
+//dimwishlist:item=1363886209#notes:Ross: - PvE - Good DPS option for medium length DPS phases, along with add clear. Enables fireteam to have exotic-level DPS with legendary rocket launchers, without dedicating exotic slot.
 //IZANAGI'S BURDEN
 //dimwishlist:item=3211806999#notes:Ross:
 //AGER'S SCEPTER
@@ -8623,13 +8623,13 @@ dimwishlist:item=4255171531&perks=3798852852,2822142346,2869569095,3927722942
 //The Queenbreaker
 //dimwishlist:item=2044500762#notes:Ross:
 //Osteo Striga 
-//dimwishlist:item=ThisChangesWhenCrafted#notes:Ross: PvE Tier: S+ / S++ with catalyst. Extremely good gun for add clear, along with providing decent DPS for boss/major damage.
+//dimwishlist:item=ThisChangesWhenCrafted#notes:Ross: PvE - Extremely good gun for add clear, along with providing decent DPS for boss/major damage.
 //Grand Overture
 //dimwishlist:item=1763584999#notes:Ross:
 //Dead Messenger
 //dimwishlist:item=2812324401#notes:Ross:
 //Parasite
-//dimwishlist:item=2812324400#notes:Ross: PvE - Tier:S+ - Best burst DPS weapon for DPS phases < 5 seconds.
+//dimwishlist:item=2812324400#notes:Ross: PvE - Best burst DPS weapon for DPS phases < 5 seconds.
 //Glaive - Edge of Action
 //dimwishlist:item=2535142413#notes:Ross:
 //Glaive - Edge of Intent
@@ -8874,7 +8874,7 @@ dimwishlist:item=4255171531&perks=3798852852,2822142346,2869569095,3927722942
 //BLIGHT RANGER
 //dimwishlist:item=1703551922#notes:Ross
 //RENEWAL GRASPS
-//dimwishlist:item=2169905051#notes:Ross: PvE - Tier: S 
+//dimwishlist:item=2169905051#notes:Ross: PvE
 
 
 

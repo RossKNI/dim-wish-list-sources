@@ -5,41 +5,41 @@
 
 //		PvP Weapons
 //Ace of Spades
-//dimwishlist:item=347366834#notes:Ross: PvP - Tier:
+//dimwishlist:item=347366834#notes:Ross: PvP
 //The Chaperone
-//dimwishlist:item=3413860062#notes:Ross: PvP - Tier:
+//dimwishlist:item=3413860062#notes:Ross: PvP
 //Hawkmoon - Disabled due to possessing random rolls
 //dimwishlist:item=3856705927
 //Crimson
-//dimwishlist:item=3437746471#notes:Ross: PvP - Tier:
+//dimwishlist:item=3437746471#notes:Ross: PvP
 //The Last Word
-//dimwishlist:item=1364093401#notes:Ross: PvP - Tier:
+//dimwishlist:item=1364093401#notes:Ross: PvP
 //Thorn
-//dimwishlist:item=3973202132#notes:Ross: PvP - Tier:
+//dimwishlist:item=3973202132#notes:Ross: PvP
 //The Wardcliff Coil
-//dimwishlist:item=1508896098#notes:Ross: PvP - Tier:
+//dimwishlist:item=1508896098#notes:Ross: PvP
 //Duality
-//dimwishlist:item=3460576091#notes:Ross: PvP - Tier:
+//dimwishlist:item=3460576091#notes:Ross: PvP
 //No Time to Explain
-//dimwishlist:item=1594120904#notes:Ross: PvP - Tier:
+//dimwishlist:item=1594120904#notes:Ross: PvP
 //Vigilance Wing
-//dimwishlist:item=3628991659#notes:Ross: PvP - Tier:
+//dimwishlist:item=3628991659#notes:Ross: PvP
 //Lumina
-//dimwishlist:item=3512014804#notes:Ross: PvP - Tier:
+//dimwishlist:item=3512014804#notes:Ross: PvP
 //Jötunn
-//dimwishlist:item=417164956#notes:Ross: PvP - Tier: A - Easy to use, the go to weapon of choice if you don't have any thumbs and play with a Wii remote.
+//dimwishlist:item=417164956#notes:Ross: PvP - Easy to use, the go to weapon of choice if you don't have any thumbs and play with a Wii remote.
 //Lorentz Driver
-//dimwishlist:item=3761898871#notes:Ross: PvP - Tier: A+ - Lorentz will spawn telemetry patterns with crits from any equipped gun, the tags on the barrel will display how many patterns you have (max of 3). You can refresh buff by picking up 1 more. When lagrangian sight is active, you can 1 hit body shot.
+//dimwishlist:item=3761898871#notes:Ross: PvP - Lorentz will spawn telemetry patterns with crits from any equipped gun, the tags on the barrel will display how many patterns you have (max of 3). You can refresh buff by picking up 1 more. When lagrangian sight is active, you can 1 hit body shot.
 //Cloudstrike
-//dimwishlist:item=2603483885#notes:Ross: PvP - Tier: 
+//dimwishlist:item=2603483885#notes:Ross: PvP
 //Heir Apparent
-//dimwishlist:item=2084878005#notes:Ross: PvP - Tier: 
+//dimwishlist:item=2084878005#notes:Ross: PvP
 //Forerunner
-//dimwishlist:item=2179048386#notes:Ross: PvP - Tier: 
+//dimwishlist:item=2179048386#notes:Ross: PvP
 //Eyes of Tomorrow
-//dimwishlist:item=2399110176#notes:Ross: PvP - Tier: 
+//dimwishlist:item=2399110176#notes:Ross: PvP
 //Bastion
-//dimwishlist:item=2415517654#notes:Ross: PvP - Tier: 
+//dimwishlist:item=2415517654#notes:Ross: PvP
 // MIDA
 //dimwishlist:item=1331482397#notes:Ross: PvP - 
 // Bad Juju
