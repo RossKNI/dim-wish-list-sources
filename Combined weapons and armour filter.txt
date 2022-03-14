@@ -1,4 +1,4 @@
-("v5.2904_Beta" 
+("v5.2905_Beta" 
 or
 	(
 		(
@@ -8,7 +8,6 @@ or
 
 			-(maxbasestatvalue:any)
 			-(basestat:any:>=23)
-			-(basestat:total:>=65)
 
 			-(basestat:highest&secondhighest:>=19)
 
@@ -23,7 +22,6 @@ or
 		(
 			-(maxbasestatvalue:any)
 			-(basestat:any:>=20)
-			-(basestat:total:>=63)
 
 			-(basestat:highest&secondhighest:>=19)
 
