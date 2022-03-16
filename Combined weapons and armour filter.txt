@@ -1,4 +1,4 @@
-("v5.2905_Beta" 
+("v5.2906_Beta" 
 or
 	(
 		(
@@ -41,7 +41,7 @@ or
 	or
 		((is:armor or is:weapon) and (is:common or is:uncommon))
 	or
-		(-is:wishlist is:weapon -is:exotic -is:deepsight -deepsight:complete -is:crafted -source:raid)
+		(-is:wishlist is:weapon -is:exotic -is:deepsight -deepsight:complete -is:crafted -source:raid -is:inloadout is:craftable) 
 	or	
 		(is:trashlist is:exotic is:weapon kills:<1)
 	or
