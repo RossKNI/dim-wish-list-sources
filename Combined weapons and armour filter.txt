@@ -1,4 +1,4 @@
-("v5.2908_Beta_Final" 
+("v5.2908_Beta_Final.2" 
 or
 	(
 		(
@@ -31,7 +31,7 @@ or
 
 			-(basestat:mobility&resilience&recovery&discipline&intellect&strength:>=10 basestat:sixthhighest:>=7 basestat:highest:<16)
 
-			is:armor is:exotic is:dupe stat:custom:<30
+			is:armor is:exotic is:dupe stat:custom:<35
 		)
 
 	or
