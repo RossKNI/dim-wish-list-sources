@@ -1,4 +1,4 @@
-("v5.2908_Beta_Final.2" 
+("v5.2908_beta_final.3g_27/3.3g" 
 or
 	(
 		(
@@ -31,28 +31,36 @@ or
 
 			-(basestat:mobility&resilience&recovery&discipline&intellect&strength:>=10 basestat:sixthhighest:>=7 basestat:highest:<16)
 
-			is:armor is:exotic is:dupe stat:custom:<35
+			is:armor is:exotic is:dupe stat:custom:<30
 		)
 
+
+
 	or
-		(is:classitem energycapacity:<=5 -is:modded -is:locked -(source:raid -is:dupelower -source:dcv))
+		(is:classitem energycapacity:<=5 -is:modded -is:locked -(-is:dupelower -source:dcv))
 	or
 		(is:armor is:sunset)
 	or
-		((is:armor or is:weapon) and (is:common or is:uncommon or is:blue) and -is:maxpowerloadout)
+		((is:armor or is:weapon) and (is:common or is:uncommon or is:blue))
 	or
-		(-is:wishlist is:weapon -is:exotic -is:deepsight -deepsight:complete -is:crafted -source:raid -is:inloadout is:craftable)
+		(is:titan is:armor -is:exotic basestat:mobility:>10)
 	or
-		(-is:wishlist is:weapon -is:exotic -is:deepsight -deepsight:complete -is:crafted -source:raid)
+		(is:Warlock is:armor -is:exotic basestat:mobility:>10)
+	or
+		(is:Hunter is:armor -is:exotic basestat:resilience:>10)
+
+
+
+	or
+		(-is:wishlist is:weapon -is:exotic -is:deepsight -deepsight:complete -is:crafted)
 	or	
 		(is:trashlist is:exotic is:weapon kills:<1)
-	or
-		(is:titan is:armor -is:exotic -is:inloadout basestat:mobility:>10) -(is:tagged -tag:junk) -is:maxpower -power:pinnaclecap -is:inloadout -is:masterwork -(is:armor -is:armor2.0) -(is:armor source:events)
-	or
-		(is:Warlock is:armor -is:exotic -is:inloadout basestat:mobility:>10) -(is:tagged -tag:junk) -is:maxpower -power:pinnaclecap -is:inloadout -is:masterwork -(is:armor -is:armor2.0) -(is:armor source:events)
-	or
-		(is:Hunter is:armor -is:exotic -is:inloadout basestat:resilience:>10) -(is:tagged -tag:junk) -is:maxpower -power:pinnaclecap -is:inloadout -is:masterwork -(is:armor -is:armor2.0) -(is:armor source:events)  
+
+		
+
 	or 
-		(tag:junk -is:maxpowerloadout)
+		(tag:junk)
 	)
+
+and (-is:maxpower -power:pinnaclecap -is:inloadout -source:raid -tag:favorite -tag:keep -is:wishlist)
 )
