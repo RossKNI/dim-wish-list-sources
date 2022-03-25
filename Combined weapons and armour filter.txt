@@ -1,21 +1,26 @@
-("v5.2908_beta_final.3g_27/3.3g" 
+("v5.2909" 
 or
 	(
 		(
-			(is:armor -is:exotic -is:classitem)
+			(is:armor -is:exotic -is:classitem -source:raid)
 
-			-(source:raid -is:dupelower -source:dcv)
-
-			-(maxbasestatvalue:any)
-			-(basestat:any:>=23)
-
-			-(basestat:highest&secondhighest:>=19)
-
-			-(basestat:highest&secondhighest&thirdhighest:>=16.66)
-
-			-(basestat:highest&secondhighest&thirdhighest&fourthhighest:>=14.25)
-
-			-(basestat:mobility&resilience&recovery&discipline&intellect&strength:>=10 basestat:sixthhighest:>=7 basestat:highest:<16)
+			-("Armour filter favouring recovery" or ((((basestat:recovery&secondhighest:>=19)
+			or
+				(basestat:highest&recovery:>=19)) (basestat:secondhighest:>=10)) 
+			or
+				((basestat:recovery&secondhighest&thirdhighest:>=16.66) 
+			or
+				(basestat:highest&recovery&thirdhighest:>=16.66) 
+			or
+				(basestat:highest&secondhighest&recovery:>=16.66) basestat:thirdhighest:>=10) 
+			or
+				((basestat:recovery&secondhighest&thirdhighest&fourthhighest:>=14.25) 
+			or
+				(basestat:highest&recovery&thirdhighest&fourthhighest:>=14.25) 
+			or
+				(basestat:highest&secondhighest&recovery&fourthhighest:>=14.25) 
+			or
+				(basestat:highest&secondhighest&thirdhighest&recovery:>=14.25) (basestat:fourthhighest:>=10))))
 		)
 
 	or
@@ -35,24 +40,29 @@ or
 		)
 
 
-
 	or
-		(is:classitem energycapacity:<=5 -is:modded -is:locked -(-is:dupelower -source:dcv))
+		(is:ghost -is:masterwork)
+	or
+		(is:classitem source:ironbanner is:dupelower)
+	or
+		(is:classitem source:raid is:dupelower)
+	or
+		(is:classitem -source:ironbanner -source:raid)
 	or
 		(is:armor is:sunset)
 	or
 		((is:armor or is:weapon) and (is:common or is:uncommon or is:blue))
 	or
-		(is:titan is:armor -is:exotic basestat:mobility:>10)
+		(is:titan is:armor -is:exotic basestat:mobility:>12 -source:raid)
 	or
-		(is:Warlock is:armor -is:exotic basestat:mobility:>10)
+		(is:Warlock is:armor -is:exotic basestat:mobility:>12 -source:raid)
 	or
-		(is:Hunter is:armor -is:exotic basestat:resilience:>10)
+		(is:Hunter is:armor -is:exotic basestat:resilience:>12 -source:raid)
 
 
 
 	or
-		(-is:wishlist is:weapon -is:exotic -is:deepsight -deepsight:complete -is:crafted)
+		(-is:wishlist is:weapon -is:exotic -deepsight:complete -is:crafted -is:sunset -source:raid)
 	or	
 		(is:trashlist is:exotic is:weapon kills:<1)
 
@@ -62,5 +72,5 @@ or
 		(tag:junk)
 	)
 
-and (-is:maxpower -power:pinnaclecap -is:inloadout -source:raid -tag:favorite -tag:keep -is:wishlist)
+and (-is:maxpower -power:pinnaclecap -is:inloadout  -tag:favorite -tag:keep -tag:Infuse -is:wishlist -name:"Funnelweb" -perkname:"artifice armor")
 )
