@@ -1,4 +1,4 @@
-("v5.29010_2"
+("v5.29010_21"
 or
 	(
 		(
@@ -65,8 +65,8 @@ or
 		(-is:wishlist is:weapon -is:exotic -deepsight:complete -is:sunset -source:raid)
 	or	
 		(is:trashlist is:exotic is:weapon kills:<1)
-	or  
-		(
+	or 
+		(	
 			(name:"Ragnhild-D")
 		or
 			(name:"Syncopation-53")
@@ -90,5 +90,5 @@ or
 		(tag:junk)
 	)
 
-	and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -name:"Funnelweb" -perkname:"artifice armor" -is:crafted)
+	and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -name:"Funnelweb" -perkname:"artifice armor" -is:crafted -(deepsight:incomplete is:craftable))
 )
