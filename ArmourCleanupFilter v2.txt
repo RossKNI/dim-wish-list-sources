@@ -1,4 +1,4 @@
-("v5.29010_21"
+("ArmourFilter_v5.29_11_4"
 or
 	(
 		(
@@ -43,6 +43,8 @@ or
 	or
 		(is:ghost -is:masterwork)
 	or
+		(is:emblems is:invault)
+	or
 		(is:classitem source:ironbanner is:dupelower)
 	or
 		(is:classitem source:raid is:dupelower)
@@ -60,35 +62,9 @@ or
 		(is:Hunter is:armor -is:exotic basestat:resilience:>12 -source:raid)
 
 
-
-	or
-		(-is:wishlist is:weapon -is:exotic -deepsight:complete -is:sunset -source:raid)
-	or	
-		(is:trashlist is:exotic is:weapon kills:<1)
-	or 
-		(	
-			(name:"Ragnhild-D")
-		or
-			(name:"Syncopation-53")
-		or
-			(name:"Empirical Evidence")
-		or
-			(name:"Likely Suspect")
-		or
-			(name:"The Enigma")
-		or
-			(name:"Thoughtless")
-		or
-			(name:"Red Herring")
-		or
-			(name:"Palmyra-B")
-		)
-
-
-
 	or 
 		(tag:junk)
 	)
 
-	and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -name:"Funnelweb" -perkname:"artifice armor" -is:crafted -(deepsight:incomplete is:craftable))
+	and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -name:"Funnelweb" -perkname:"artifice armor" -is:crafted -is:weapon -(deepsight:incomplete is:craftable))
 )
