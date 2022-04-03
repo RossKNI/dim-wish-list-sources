@@ -1,4 +1,4 @@
-("WeaponFilter_v5.29_11_1"
+("WeaponFilter_v5.29_11_2"
     or
             (-is:wishlist is:weapon -is:exotic -deepsight:complete -is:sunset -source:raid)
         or	
@@ -24,6 +24,12 @@
                 (name:"Explosive Personality")
             or
                 (name:"Likely Suspect")
+            or
+                (name:"Come to Pass")
+            or
+                (name:"Under Your Skin")
+            or
+                (name:"Tarnation")
             )
 
 
@@ -32,6 +38,6 @@
             (tag:junk)
         )
 
-        and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -name:"Funnelweb" -perkname:"artifice armor" -is:crafted -(deepsight:incomplete is:craftable))
+        and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -name:"Funnelweb" -perkname:"artifice armor" -is:crafted))
     )
     
