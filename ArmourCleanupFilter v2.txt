@@ -1,26 +1,22 @@
-("ArmourFilter_v5.29_11_4"
+("ArmourFilter_v5.29_12_2"
 or
 	(
 		(
 			(is:armor -is:exotic -is:classitem -source:raid)
 
-			-("Armour filter favouring recovery" or ((((basestat:recovery&secondhighest:>=19)
-			or
-				(basestat:highest&recovery:>=19)) (basestat:secondhighest:>=10)) 
-			or
-				((basestat:recovery&secondhighest&thirdhighest:>=16.66) 
-			or
-				(basestat:highest&recovery&thirdhighest:>=16.66) 
-			or
-				(basestat:highest&secondhighest&recovery:>=16.66) basestat:thirdhighest:>=10) 
-			or
-				((basestat:recovery&secondhighest&thirdhighest&fourthhighest:>=14.25) 
-			or
-				(basestat:highest&recovery&thirdhighest&fourthhighest:>=14.25) 
-			or
-				(basestat:highest&secondhighest&recovery&fourthhighest:>=14.25) 
-			or
-				(basestat:highest&secondhighest&thirdhighest&recovery:>=14.25) (basestat:fourthhighest:>=10))))
+			-(source:raid -is:dupelower -source:dcv)
+
+	-(maxbasestatvalue:any)
+	-(basestat:any:>=23)
+	-(basestat:total:>=67)
+
+	-(basestat:highest&secondhighest:>=19)
+
+	-(basestat:highest&secondhighest&thirdhighest:>=16.66)
+
+	-(basestat:highest&secondhighest&thirdhighest&fourthhighest:>=14.25)
+
+	-(basestat:mobility&resilience&recovery&discipline&intellect&strength:>=10 basestat:sixthhighest:>=7 basestat:highest:<16)
 		)
 	or
 		(
