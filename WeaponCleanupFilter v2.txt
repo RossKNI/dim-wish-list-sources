@@ -1,35 +1,38 @@
-("WeaponFilter_v5.29_11_2"
+("WeaponFilter_v5.29_12_2_ALPHAForResItems"
     or
             (-is:wishlist is:weapon -is:exotic -deepsight:complete -is:sunset -source:raid)
         or	
             (is:trashlist is:exotic is:weapon kills:<1)
         or 
-            (	
-                (name:"Ragnhild-D")
-            or
-                (name:"Syncopation-53")
-            or
-                (name:"Empirical Evidence")
-            or
-                (name:"Likely Suspect")
-            or
-                (name:"The Enigma")
-            or
-                (name:"Thoughtless")
-            or
-                (name:"Red Herring")
-            or
-                (name:"Palmyra-B")
-            or
-                (name:"Explosive Personality")
-            or
-                (name:"Likely Suspect")
-            or
-                (name:"Come to Pass")
-            or
-                (name:"Under Your Skin")
-            or
-                (name:"Tarnation")
+            (
+                    (name:"Ragnhild-D")
+                or
+                    (name:"Syncopation-53")
+                or
+                    (name:"Empirical Evidence")
+                or
+                    (name:"Likely Suspect")
+                or
+                    (name:"The Enigma")
+                or
+                    (name:"Thoughtless")
+                or
+                    (name:"Red Herring")
+                or
+                    (name:"Palmyra-B")
+                or
+                    (name:"Explosive Personality")
+                or
+                    (name:"Likely Suspect")
+                or
+                    (name:"Come to Pass")
+                or
+                    (name:"Under Your Skin")
+                or
+                    (name:"Tarnation")
+                or
+                    (name:"Piece of Mind")
+
             )
 
 
