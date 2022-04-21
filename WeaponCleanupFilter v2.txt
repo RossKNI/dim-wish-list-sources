@@ -1,4 +1,4 @@
-("WeaponFilter_220419_2_ALPHA"
+("WeaponFilter_220421_1_ALPHA"
     or
         (-is:wishlist is:weapon -is:exotic -deepsight:complete -is:sunset)
     or	
@@ -67,6 +67,8 @@
 
     or 
         (tag:junk)
+    or 
+        (is:trashlist)
     )
 
     and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -name:"Funnelweb" -perkname:"artifice armor" -is:crafted))
