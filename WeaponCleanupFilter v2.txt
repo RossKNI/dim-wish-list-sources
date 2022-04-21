@@ -1,4 +1,4 @@
-("WeaponFilter_220417_4_ALPHA"
+("WeaponFilter_220419_2_ALPHA"
     or
         (-is:wishlist is:weapon -is:exotic -deepsight:complete -is:sunset)
     or	
@@ -44,7 +44,23 @@
                 (name:"Hoosegow")
             or
                 (name:"Finite Impactor")
+            or
+                (name:"Frozen Orbit")
+            or
+                (name:"Fugue-55")
+            or
+                (name:"Far Future")
+            or
+                (name:"Annual Skate")
+            or
+                (name:"Sorrow's Verse")
+            or
+                (name:"Retrofuturist")
+            or
+                (name:"Stochastic Variable")
 
+
+                       
         )
 
 
