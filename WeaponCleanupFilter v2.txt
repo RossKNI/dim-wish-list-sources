@@ -1,75 +1,18 @@
-("WeaponFilter_220421_1_ALPHA"
+("WeaponFilter_220504_3_ALPHA_RemovedFunnelWebIgnoreAddedTitle"
     or
         (-is:wishlist is:weapon -is:exotic -deepsight:complete -is:sunset)
     or	
         (is:exotic is:weapon kills:<1)
     or
         (is:weapon -kills:pve:>=0 -kills:pvp:>=0 -is:wishlist season:>=risen)
-    or 
-        (
-                (name:"Ragnhild-D")
-            or
-                (name:"Syncopation-53")
-            or
-                (name:"Empirical Evidence")
-            or
-                (name:"Likely Suspect")
-            or
-                (name:"The Enigma")
-            or
-                (name:"Thoughtless")
-            or
-                (name:"Red Herring")
-            or
-                (name:"Palmyra-B")
-            or
-                (name:"Explosive Personality")
-            or
-                (name:"Likely Suspect")
-            or
-                (name:"Come to Pass")
-            or
-                (name:"Under Your Skin")
-            or
-                (name:"Tarnation")
-            or
-                (name:"Piece of Mind")
-            or
-                (name:"Cataclysmic")
-            or
-                (name:"Recurrent Impact")
-            or
-                (name:"Survivor's Epitaph")
-            or
-                (name:"Hoosegow")
-            or
-                (name:"Finite Impactor")
-            or
-                (name:"Frozen Orbit")
-            or
-                (name:"Fugue-55")
-            or
-                (name:"Far Future")
-            or
-                (name:"Annual Skate")
-            or
-                (name:"Sorrow's Verse")
-            or
-                (name:"Retrofuturist")
-            or
-                (name:"Stochastic Variable")
-
-
-                       
-        )
-
-
-
+    or
+        (is:exotic is:weapon not:masterwork light:<1500 -name:"Dead Man's Tale" -name:"Hawkmoon")
     or 
         (tag:junk)
     or 
         (is:trashlist)
+
     )
 
-    and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -name:"Funnelweb" -perkname:"artifice armor" -is:crafted))
+    and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse" -name:"The Title" -perkname:"artifice armor" -is:crafted))
 )
