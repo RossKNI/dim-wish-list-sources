@@ -12,7 +12,7 @@
     or 
         (is:trashlist)
 
-    )
+)
 
     and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse" -name:"The Title" -perkname:"artifice armor" -is:crafted))
 )

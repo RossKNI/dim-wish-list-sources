@@ -1,4 +1,4 @@
-//v22.05.05.1																	Trashlist
+//v22.05.05.2																	Trashlist
 
 //The Vision
 //dimwishlist:item=-2414141462
@@ -76,3 +76,48 @@
 //dimwishlist:item=-962412079
 //LAST PERDITION
 //dimwishlist:item=-188882152
+//FORGE'S PLEDGE
+//dimwishlist:item=-1076810832
+//CANTATA-57
+//dimwishlist:item=-372697604
+//HERETIC
+//dimwishlist:item=-3067821200
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+//
+//dimwishlist:item=-
+
