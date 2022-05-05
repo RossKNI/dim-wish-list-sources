@@ -1,4 +1,4 @@
-//v22.05.05.3																	Trashlist
+//v22.05.05.4																	Trashlist
 
 //The Vision
 dimwishlist:item=-2414141462
@@ -84,10 +84,10 @@ dimwishlist:item=-372697604
 dimwishlist:item=-3067821200
 //BXR-55 BATTLER
 dimwishlist:item=-2708806099
-//
-dimwishlist:item=-
-//
-dimwishlist:item=-
+//LUBRAE'S RUIN
+dimwishlist:item=-2534546147
+//WASTELANDER M5
+dimwishlist:item=-1679868061
 //
 dimwishlist:item=-
 //

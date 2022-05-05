@@ -1,4 +1,4 @@
-("WeaponFilter_220504_3_ALPHA_RemovedFunnelWebIgnoreAddedTitle"
+("WeaponFilter_220504_9_ALPHA"
     or
         (-is:wishlist is:weapon -is:exotic -deepsight:complete -is:sunset)
     or	
@@ -10,9 +10,9 @@
     or 
         (tag:junk)
     or 
-        (is:trashlist)
+        (is:trashlist -is:crafted)
+        
+    )
 
-)
+    and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse" -name:"The Title" -perkname:"artifice armor" -is:crafted)
 
-    and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse" -name:"The Title" -perkname:"artifice armor" -is:crafted))
-)
