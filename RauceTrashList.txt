@@ -1,4 +1,10 @@
-//v22.05.05.4																	Trashlist
+//v22.05.07.1																	Trashlist
+
+When this file is updated and new personal/community WL is generated, then run the following for the below.
+
+    cmd shift L - > selects all occurences within the document
+        cmd L - selects the entire line containing the occurences
+            delete - will delete all of the listed items
 
 //The Vision
 dimwishlist:item=-2414141462
@@ -88,12 +94,12 @@ dimwishlist:item=-2708806099
 dimwishlist:item=-2534546147
 //WASTELANDER M5
 dimwishlist:item=-1679868061
-//
-dimwishlist:item=-
-//
-dimwishlist:item=-
-//
-dimwishlist:item=-
+//LONG SHADOW
+dimwishlist:item=-3745990145
+//OCCLUDED FINALITY
+dimwishlist:item=-852551895
+//THE LAST DANCE
+dimwishlist:item=-2009277538
 //
 dimwishlist:item=-
 //
