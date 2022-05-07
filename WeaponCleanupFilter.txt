@@ -1,4 +1,4 @@
-("WeaponFilter_220504_9_ALPHA"
+("WeaponFilter_220507_1"
     or
         (-is:wishlist is:weapon -is:exotic -deepsight:complete -is:sunset)
     or	
@@ -13,5 +13,5 @@
         (is:trashlist)        
     )
 
-    and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -name:"The Title" -perkname:"artifice armor" -is:crafted)
+    and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -perkname:"artifice armor" -is:crafted)
 
