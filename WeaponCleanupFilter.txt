@@ -1,6 +1,6 @@
-("WeaponFilter_220507_1"
+("WeaponFilter_220508_1"
     or
-        (-is:wishlist is:weapon -is:exotic -deepsight:complete -is:sunset)
+        (-is:wishlist is:weapon -is:exotic -deepsight:complete)
     or	
         (is:exotic is:weapon kills:<1)
     or
