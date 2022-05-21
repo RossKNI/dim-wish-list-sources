@@ -1,4 +1,4 @@
-("ArmourFilter_220421_2"
+("ArmourFilter_220521_1"
 or
 	(
 		(
@@ -8,7 +8,7 @@ or
 
 			-(maxbasestatvalue:any)
 			-(basestat:any:>=23)
-			-(basestat:total:>=67)
+			-(basestat:total:>=64)
 
 			-(basestat:highest&secondhighest:>=19)
 
