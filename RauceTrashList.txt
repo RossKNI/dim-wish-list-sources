@@ -88,8 +88,6 @@ dimwishlist:item=-1076810832
 dimwishlist:item=-372697604
 //HERETIC
 dimwishlist:item=-3067821200
-//BXR-55 BATTLER
-dimwishlist:item=-2708806099
 //LUBRAE'S RUIN
 dimwishlist:item=-2534546147
 //WASTELANDER M5
