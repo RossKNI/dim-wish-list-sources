@@ -1,4 +1,4 @@
-("ArmourFilter_220521_1"
+("ArmourFilter_220601_1"
 or
 	(
 		(
@@ -55,7 +55,7 @@ or
 	or
 		(is:Warlock is:armor -is:exotic basestat:mobility:>12 -source:raid)
 	or
-		(is:Hunter is:armor -is:exotic basestat:resilience:>12 -source:raid)
+		(is:Hunter is:armor -is:exotic basestat:resilience:>99 -source:raid)
 	or
 		(stat:custom:<35 -is:exotic is:armor -is:masterwork -is:maxpower energycapacity:<6 -source:raid)
 

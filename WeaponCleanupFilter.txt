@@ -1,4 +1,4 @@
-("WeaponFilter_220508_1"
+("WeaponFilter_220601_1"
     or
         (-is:wishlist is:weapon -is:exotic -deepsight:complete)
     or	
@@ -10,8 +10,10 @@
     or 
         (tag:junk)
     or 
-        (is:trashlist)        
+        (is:trashlist)
+    or
+        (is:patternunlocked)       
     )
 
     and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -perkname:"artifice armor" -is:crafted)
-
+    
