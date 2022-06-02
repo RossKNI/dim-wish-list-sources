@@ -1,10 +1,10 @@
-("WeaponFilter_220601_1"
+("WeaponFilter_220602_1"
     or
-        (-is:wishlist is:weapon -is:exotic -deepsight:complete)
+        (-is:wishlist is:weapon -is:exotic -is:craftable)      
+    or
+        (-is:wishlist is:weapon -is:exotic is:craftable -deepsight:incomplete -is:patternunlocked)  
     or	
         (is:exotic is:weapon kills:<1)
-    or
-        (is:weapon -kills:pve:>=0 -kills:pvp:>=0 -is:wishlist season:>=risen)
     or
         (is:exotic is:weapon not:masterwork light:<1500 -name:"Dead Man's Tale" -name:"Hawkmoon")
     or 
@@ -16,4 +16,3 @@
     )
 
     and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -perkname:"artifice armor" -is:crafted)
-    
