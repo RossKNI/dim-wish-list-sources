@@ -1,4 +1,4 @@
-("WeaponFilter_220602_5"
+("WeaponFilter_220602_6"
     or
         (-is:wishlist is:weapon -is:exotic -is:craftable)      
     or
@@ -15,4 +15,4 @@
         (is:patternunlocked)       
     )
 
-    and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -perkname:"artifice armor" -is:crafted -name:"austringer" -name:"the hero's burden" -name:"the wizened rebuke" -name:"Stormchaser")
+    and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -perkname:"artifice armor" -is:crafted -name:"austringer" -name:"the wizened rebuke" -name:"Stormchaser")
