@@ -1,4 +1,4 @@
-("ArmourFilter_220605_2"
+("ArmourFilter_220606_1"
 or
 	(
 		(
@@ -64,5 +64,5 @@ or
 		(tag:junk)
 	)
 
-	and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -basestat:total:>65 -perkname:"artifice armor" (perkname:"visage of the reaper" and is:dupelower) -is:crafted -is:weapon -(deepsight:incomplete is:craftable))
+	and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -basestat:total:>65 -perkname:"artifice armor" -is:crafted -is:weapon -(deepsight:incomplete is:craftable) -name:"Eidolon")
 )

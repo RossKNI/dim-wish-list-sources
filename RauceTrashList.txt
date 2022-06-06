@@ -1,4 +1,0 @@
-("RossUnusedWeaponsCleanout_220605_2"
-    or
-        (name:"RAZOR'S EDGE" or name:"FROZEN ORBIT" or name:"Peacebond")
-    )
