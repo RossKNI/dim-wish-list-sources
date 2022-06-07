@@ -1,4 +1,4 @@
-("RossUnusedWeaponsCleanout_220606_2"
+("RossUnusedWeaponsCleanout_220607_2"
     or
         (name:"RAZOR'S EDGE" 
         
@@ -6,5 +6,18 @@
         
         or name:"Peacebond"
         
+        or name:"SURVIVOR'S EPITAPH"
+
+        or name:"CANTATA-57"
+
+        or name:"THE TITLE"
+
+        or name:"ASCENDANCY"
+
+        or name:"DEATH ADDER"
+
+        or name:"CRISIS INVERTED"
+
+        or name:"VOUCHSAFE" 
     )
 )

@@ -1,4 +1,4 @@
-("ArmourFilter_220606_1"
+("ArmourFilter_220607_2"
 or
 	(
 		(
@@ -20,18 +20,7 @@ or
 		)
 	or
 		(
-			-(maxbasestatvalue:any)
-			-(basestat:any:>=20)
-
-			-(basestat:highest&secondhighest:>=19)
-
-			-(basestat:highest&secondhighest&thirdhighest:>=16.66)
-
-			-(basestat:highest&secondhighest&thirdhighest&fourthhighest:>=14.25)
-
-			-(basestat:mobility&resilience&recovery&discipline&intellect&strength:>=10 basestat:sixthhighest:>=7 basestat:highest:<16)
-
-			is:armor is:exotic is:dupe stat:custom:<30
+			is:armor is:exotic is:dupe stat:custom:<35
 		)
 
 
@@ -51,9 +40,9 @@ or
 	or
 		((is:armor or is:weapon) and (is:common or is:uncommon or is:blue))
 	or
-		(is:titan is:armor -is:exotic basestat:mobility:>12 -source:raid)
+		(is:titan is:armor -is:exotic basestat:mobility:>7 -source:raid)
 	or
-		(is:Warlock is:armor -is:exotic basestat:mobility:>12 -source:raid)
+		(is:Warlock is:armor -is:exotic basestat:mobility:>7 -source:raid)
 	or
 		(is:Hunter is:armor -is:exotic basestat:resilience:>99 -source:raid)
 	or
@@ -64,6 +53,6 @@ or
 		(tag:junk)
 	)
 
-	and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -basestat:total:>65 
+	and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -basestat:total:>66 
 			-perkname:"artifice armor" -is:crafted -is:weapon -(deepsight:incomplete is:craftable) -name:"Eidolon")
 )
