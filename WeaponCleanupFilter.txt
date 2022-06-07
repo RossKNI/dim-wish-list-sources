@@ -15,4 +15,5 @@
         (is:patternunlocked)       
     )
 
-    and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -perkname:"artifice armor" -is:crafted -name:"austringer" -name:"the wizened rebuke" -name:"Stormchaser")
+    and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep 
+            tag:infuse -perkname:"artifice armor" -is:crafted -name:"austringer" -name:"the wizened rebuke" -name:"Stormchaser")
