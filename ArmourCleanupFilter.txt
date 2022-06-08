@@ -1,4 +1,4 @@
-("ArmourFilter_220607_2"
+("ArmourFilter_220607_3b"
 or
 	(
 		(
@@ -26,7 +26,7 @@ or
 
 
 	or
-		(is:ghost -is:masterwork)
+		(is:ghost -is:masterwork -is:common)
 	or
 		(is:emblems is:invault)
 	or
@@ -47,6 +47,8 @@ or
 		(is:Hunter is:armor -is:exotic basestat:resilience:>99 -source:raid)
 	or
 		(stat:custom:<35 -is:exotic is:armor -is:masterwork -is:maxpower energycapacity:<6 -source:raid)
+	or 
+		(name:"Eidolon" and is:dupelower)
 
 
 	or 
@@ -54,5 +56,5 @@ or
 	)
 
 	and (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:Infuse -basestat:total:>66 
-			-perkname:"artifice armor" -is:crafted -is:weapon -(deepsight:incomplete is:craftable) -name:"Eidolon")
+			-perkname:"artifice armor" -is:crafted -is:weapon -(deepsight:incomplete is:craftable))
 )
