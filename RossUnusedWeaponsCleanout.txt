@@ -1,23 +1,34 @@
-("RossUnusedWeaponsCleanout_220607_2"
-    or
-        (name:"RAZOR'S EDGE" 
-        
-        or name:"FROZEN ORBIT" 
-        
-        or name:"Peacebond"
-        
-        or name:"SURVIVOR'S EPITAPH"
-
-        or name:"CANTATA-57"
-
-        or name:"THE TITLE"
-
-        or name:"ASCENDANCY"
-
-        or name:"DEATH ADDER"
-
-        or name:"CRISIS INVERTED"
-
-        or name:"VOUCHSAFE" 
+/* Ross - Unused weapons cleanout*/
+    (
+		    (name:"v220612_1")
+		or
+			(name:"RAZOR'S EDGE"         
+        or 
+            name:"FROZEN ORBIT"         
+        or 
+            name:"Peacebond"        
+        or 
+            name:"SURVIVOR'S EPITAPH"
+        or 
+            name:"CANTATA-57"
+        or 
+            name:"THE TITLE"
+        or 
+            name:"ASCENDANCY"
+        or 
+            name:"DEATH ADDER"
+        or 
+            name:"CRISIS INVERTED"
+        or 
+            name:"VOUCHSAFE"
+        or 
+            name:"FUGUE-55"
+        or 
+            name:"Riiswalker"
+        or 
+            name:"OGMA PR6"
+        or 
+            name:"Multimach CCX"
     )
-)
+
+        and (-tag:favorite -tag:keep -is:maxpower -power:pinnaclecap -is:inloadout)
