@@ -1,6 +1,6 @@
 /* Ross - Unused weapons cleanout*/
     (
-		    (name:"v220612_1")
+		    (name:"v220612_3")
 		or
 			(name:"RAZOR'S EDGE"         
         or 
@@ -29,6 +29,10 @@
             name:"OGMA PR6"
         or 
             name:"Multimach CCX"
+        or 
+            name:"Perses-D"
+        or 
+            name:"Krait"
     )
 
         and (-tag:favorite -tag:keep -is:maxpower -power:pinnaclecap -is:inloadout)
