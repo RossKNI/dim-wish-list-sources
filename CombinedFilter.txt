@@ -1,6 +1,6 @@
-/* Possible armour dismantles*/
+/* Ross weapon & armour filter_ BETA OMG OMG*/
 	(
-			(name:"v220612_5")
+			(name:"v220612_5_TEST_RESULTS_MATCH_AGAINST_SEPERATE")
 		or
 			(
 				(is:armor -is:exotic -is:classitem -source:raid -is:masterwork)
@@ -48,7 +48,27 @@
 			(name:"Eidolon" and is:dupelower and stat:custom:<35)
 		or 
 			(tag:junk is:armor)
-		)
 
-		and (is:armor -source:raid -is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -perkname:"artifice armor" -is:crafted -is:weapon -(deepsight:incomplete is:craftable))
-	)
+
+    or
+        (-is:wishlist is:weapon -is:exotic -is:craftable)      
+    or
+        (-is:wishlist is:weapon -is:exotic is:craftable -deepsight:incomplete -is:patternunlocked)  
+    or	
+        (is:exotic is:weapon kills:<1)
+    or
+        (is:exotic is:weapon not:masterwork light:<1500 -name:"Dead Man's Tale" -name:"Hawkmoon")
+    or 
+        (tag:junk)
+    or 
+        (is:trashlist)
+    or
+        (is:patternunlocked)
+    )
+    
+    and ( 
+            (is:armor -source:raid -is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -perkname:"artifice armor" -is:crafted -is:weapon -(deepsight:incomplete is:craftable))
+        or
+            (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -perkname:"artifice armor" -is:crafted is:weapon)
+        )
+)

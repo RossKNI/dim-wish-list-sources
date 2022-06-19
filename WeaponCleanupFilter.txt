@@ -1,4 +1,4 @@
-/* Ross - Weapon cleanout */
+/* Possible weapon dismantles */
 
     (
         (name:"v220612_2")

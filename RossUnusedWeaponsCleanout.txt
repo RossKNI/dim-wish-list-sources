@@ -1,4 +1,4 @@
-/* Ross - Unused weapons cleanout*/
+/* Unused weapons*/
     (
 		    (name:"v220612_3")
 		or
