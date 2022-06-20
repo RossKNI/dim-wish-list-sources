@@ -1,4 +1,4 @@
-/* Ross weapon & armour filter_ BETA OMG OMG*/
+/* Ross weapon & armour filter*/
 	(
 			(name:"v220620_1")
 		or
