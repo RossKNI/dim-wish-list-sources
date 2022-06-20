@@ -1,6 +1,6 @@
 /* Ross weapon & armour filter_ BETA OMG OMG*/
 	(
-			(name:"v220612_5_TEST_RESULTS_MATCH_AGAINST_SEPERATE")
+			(name:"v220620_1")
 		or
 			(
 				(is:armor -is:exotic -is:classitem -source:raid -is:masterwork)
@@ -23,6 +23,7 @@
 			(
 				is:armor is:exotic is:dupe stat:custom:<35
 			)
+
 
 		or
 			(is:ghost -is:masterwork -is:common)
@@ -48,6 +49,12 @@
 			(name:"Eidolon" and is:dupelower and stat:custom:<35)
 		or 
 			(tag:junk is:armor)
+
+
+
+
+
+
 
 
     or
