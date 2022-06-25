@@ -1,8 +1,8 @@
 /* Unused weapons*/
     (
-		    (name:"v220623_1")
+		    (name:"v220625_1")
 		or
-			(name:"RAZOR'S EDGE"         
+			name:"RAZOR'S EDGE"         
         or 
             name:"FROZEN ORBIT"         
         or 

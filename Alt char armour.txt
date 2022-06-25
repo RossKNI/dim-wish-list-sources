@@ -1,0 +1,25 @@
+/* Unused alt char armour*/
+	(
+			(name:"v220625_1")
+		or
+			(
+				(is:armor)
+
+                (-is:exotic)
+
+                (-is:titan)
+
+                (energycapacity:<5)
+
+                (basestat:total:<=65)
+            )
+		
+    
+    and ( 
+            (is:armor -source:raid -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -perkname:"artifice armor" -is:crafted -is:weapon -(deepsight:incomplete is:craftable))
+
+            or
+
+            (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -perkname:"artifice armor" -is:crafted is:weapon)
+        )
+    )
