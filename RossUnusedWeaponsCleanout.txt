@@ -1,6 +1,6 @@
 /* Unused weapons*/
     (
-		    (name:"v220612_3")
+		    (name:"v220623_1")
 		or
 			(name:"RAZOR'S EDGE"         
         or 
@@ -33,6 +33,8 @@
             name:"Perses-D"
         or 
             name:"Krait"
+        or 
+            name:"Forge's Pledge"
     )
 
         and (-tag:favorite -tag:keep -is:maxpower -power:pinnaclecap -is:inloadout)
