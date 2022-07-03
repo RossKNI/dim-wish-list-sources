@@ -1,6 +1,6 @@
 /* Unused weapons*/
     (
-		    (name:"v220627_2")
+		    (name:"v220702_1")
 		or
 			name:"RAZOR'S EDGE"         
         or 
@@ -37,7 +37,9 @@
             name:"Forge's Pledge"
         or 
             name:"LUNULATA-4B"
+        or 
+            name:"Funnelweb"
             
     )
 
-        and (-tag:favorite -tag:keep -is:maxpower -power:pinnaclecap -is:inloadout is:weapon)
+        and (-tag:favorite -tag:keep -is:maxpower -power:pinnaclecap -is:inloadout is:weapon -source:raid)
