@@ -1,6 +1,6 @@
 /* Ross weapon & armour filter*/
 	(
-			(name:"v220714_1")
+			(name:"v220717_1")
 		or
 			(
 				(is:armor -is:exotic -is:classitem -source:raid -is:masterwork)
@@ -19,7 +19,7 @@
 				-(basestat:mobility&resilience&recovery&discipline&intellect&strength:>=10 basestat:sixthhighest:>=7 basestat:highest:<16)
 
 				and	
-					-basestat:total:<60
+					basestat:total:<60
 			)
 		or
 			(
@@ -39,17 +39,17 @@
 		or
 			(is:classitem source:raid is:dupelower)
 		or
-			(is:classitem -source:ironbanner -source:raid)
+			(is:classitem -source:ironbanner)
 		or
 			(is:armor is:sunset)
 		or
 			((is:armor or is:weapon) and (is:common or is:uncommon or is:blue))
 		or
-			(is:titan is:armor -is:exotic basestat:mobility:>7 -source:raid)
+			(is:titan is:armor -is:exotic basestat:mobility:>7)
 		or
-			(is:Warlock is:armor -is:exotic basestat:mobility:>7 -source:raid)
+			(is:Warlock is:armor -is:exotic basestat:mobility:>7)
 		or
-			(is:Hunter is:armor -is:exotic basestat:resilience:>99 -source:raid)
+			(is:Hunter is:armor -is:exotic basestat:resilience:>99)
 		or 
 			(name:"Eidolon" and is:dupelower and stat:custom:<35)
 		or 
@@ -78,5 +78,5 @@
     and ( 
             (is:armor -source:raid -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -perkname:"artifice armor" -(deepsight:incomplete is:craftable))
         or
-            (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -is:crafted is:weapon)
+            (is:weapon -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -is:crafted )
         )
