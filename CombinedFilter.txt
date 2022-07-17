@@ -76,7 +76,7 @@
     )
     
     and ( 
-            (is:armor -source:raid -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -perkname:"artifice armor" -name:"Fatebringer (Timelost)" -(deepsight:incomplete is:craftable))
+            (is:armor -source:raid -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -perkname:"artifice armor" -(deepsight:incomplete is:craftable))
         or
             (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -is:crafted is:weapon)
         )
