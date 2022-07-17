@@ -1,0 +1,22 @@
+(PvP / M+KB):
+(PvE / M+KB):
+
+
+
+
+
+
+
+Weapon IDs to remove, which are sometimes added via WL manager
+
+1216319404 - Timelost fatebringer - too many rolls (350+)
+
+
+
+
+
+
+-------
+Highlight desired ID to remove
+CTRL & Shift & L = highlight all
+CTRL & shift & K = removes all
