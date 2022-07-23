@@ -1,6 +1,6 @@
 /* Unused alt char armour*/
 	(
-			(name:"v220625_1")
+			(name:"v220723_1")
 		or
 			(
 				(is:armor)
@@ -11,7 +11,7 @@
 
                 (energycapacity:<5)
 
-                (basestat:total:<=65)
+                (basestat:total:<62)
             )
 		
     
