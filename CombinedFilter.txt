@@ -1,6 +1,6 @@
 /* Ross weapon & armour filter*/
 	(
-			(name:"v220725_1")
+			(name:"v220725_2_BETA")
 		or
 			(
 				(is:armor -is:exotic -is:classitem)
@@ -61,10 +61,6 @@
         (is:exotic is:weapon kills:<1)
     or
         (is:exotic is:weapon not:masterwork light:<1500 -name:"Dead Man's Tale" -name:"Hawkmoon")
-    or 
-        (tag:junk)
-    or 
-        (is:trashlist)
     or
         (is:patternunlocked)
     )
@@ -74,3 +70,12 @@
         or
             (is:weapon -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -is:crafted)
         )
+
+
+
+
+
+	 or
+		(tag:junk)
+	 or 
+       	(is:trashlist)
