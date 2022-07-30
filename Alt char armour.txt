@@ -1,25 +1,25 @@
 /* Unused alt char armour*/
 	(
-			(name:"v220723_1")
+			(name:"v220727_3")
 		or
 			(
 				(is:armor)
 
                 (-is:exotic)
 
-                (-is:titan)
+                (-is:incurrentchar)
 
-                (energycapacity:<5)
+                (energycapacity:<8)
 
-                (basestat:total:<62)
+                ((basestat:total:<62 and stat:custom:<55)
             )
 		
     
     and ( 
-            (is:armor -source:raid -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -perkname:"artifice armor" -is:crafted -is:weapon -(deepsight:incomplete is:craftable))
+            (is:armor -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -source:garden -source:vow)
 
             or
 
-            (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -perkname:"artifice armor" -is:crafted is:weapon)
+            (-is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -is:crafted is:weapon)
         )
     )
