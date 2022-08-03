@@ -1,6 +1,6 @@
 /* Unused weapons*/
     (
-		    (name:"v220702_1")
+		    (name:"v220801_1")
 		or
 			name:"RAZOR'S EDGE"         
         or 
@@ -39,6 +39,10 @@
             name:"LUNULATA-4B"
         or 
             name:"Funnelweb"
+        or 
+            name:"REDBACK-5SI"
+        or 
+            name:"TYPHON GL5"
             
     )
 
