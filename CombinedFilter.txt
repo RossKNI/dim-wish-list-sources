@@ -58,7 +58,7 @@
     or
         (-is:wishlist is:weapon -is:exotic is:craftable -deepsight:incomplete -is:patternunlocked)  
     or	
-        (is:exotic is:weapon kills:<1)
+        (is:exotic is:weapon kills:<50)
     or
         (is:exotic is:weapon not:masterwork light:<1500 -name:"Dead Man's Tale" -name:"Hawkmoon")
     or
@@ -66,7 +66,7 @@
     )
     
     and ( 
-            (is:armor -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -source:garden -source:vow )
+            (is:armor -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -source:garden -source:vow)
         or
             (is:weapon -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -is:crafted)
         )
