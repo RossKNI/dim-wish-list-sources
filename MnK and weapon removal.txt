@@ -10,6 +10,8 @@
 Weapon IDs to remove, which are sometimes added via WL manager
 
 1216319404 - Timelost fatebringer - too many rolls (350+)
+1866778462 - Hothead
+631439337 - Found Verdict (Timelost) - too many rolls, incorrect barrels displayed
 
 
 
