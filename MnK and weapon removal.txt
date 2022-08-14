@@ -12,6 +12,9 @@ Weapon IDs to remove, which are sometimes added via WL manager
 1216319404 - Timelost fatebringer - too many rolls (350+)
 1866778462 - Hothead
 631439337 - Found Verdict (Timelost) - too many rolls, incorrect barrels displayed
+1173780905 - The Messenger (Adept) - too many community WL rolls
+3658188704 - The Messenger - too many community WL rolls
+235827225 - Eyasluna - too many community WL rolls
 
 
 
