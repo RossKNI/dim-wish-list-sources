@@ -34,6 +34,7 @@ Weapon IDs to remove, which are sometimes added via WL manager
 
 
 
+
 -------
 Highlight desired ID to remove
 CTRL & Shift & L = highlight all

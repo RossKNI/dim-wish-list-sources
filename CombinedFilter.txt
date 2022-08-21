@@ -21,7 +21,7 @@
 			)
 		or
 			(
-				is:armor is:exotic is:dupe stat:custom:<40
+				is:armor is:exotic is:dupe stat:custom:<35
 			)
 
 
