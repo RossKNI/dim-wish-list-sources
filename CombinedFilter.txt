@@ -1,6 +1,6 @@
 /* Ross weapon & armour filter*/
 	(
-			(name:"v220821_1")
+			(name:"v220824_1")
 		or
 			(
 				(is:armor -is:exotic -is:classitem)
@@ -55,8 +55,6 @@
 
     or
         (-is:wishlist is:weapon -is:exotic -is:craftable)      
-    or
-        (-is:wishlist is:weapon -is:exotic is:craftable -deepsight:incomplete -is:patternunlocked)  
     or	
         (is:exotic is:weapon kills:<50 light:<1560)
     or
