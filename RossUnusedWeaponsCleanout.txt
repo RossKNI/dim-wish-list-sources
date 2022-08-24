@@ -1,6 +1,6 @@
 /* Unused weapons*/
     (
-		    (name:"v220820_1")
+		    (name:"v220822_1")
 		or
 			name:"RAZOR'S EDGE"         
         or 
@@ -53,4 +53,4 @@
             
     )
 
-        and (-tag:favorite -tag:keep -is:maxpower -power:pinnaclecap -is:inloadout is:weapon -source:raid)
+        and (-tag:favorite -tag:keep -is:maxpower -power:pinnaclecap -is:inloadout is:weapon)
