@@ -1,6 +1,6 @@
 /* Ross weapon & armour filter*/
 	(
-			(name:"v220821_1")
+			(name:"v220825_1")
 		or
 			(
 				(is:armor -is:exotic -is:classitem)
@@ -57,10 +57,6 @@
         (-is:wishlist is:weapon -is:exotic -is:craftable)      
     or
         (-is:wishlist is:weapon -is:exotic is:craftable -deepsight:incomplete -is:patternunlocked)  
-    or	
-        (is:exotic is:weapon kills:<50 light:<1560)
-    or
-        (is:exotic is:weapon not:masterwork light:<1560 -name:"Dead Man's Tale" -name:"Hawkmoon")
     or
         (is:patternunlocked)
     )
