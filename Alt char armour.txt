@@ -1,22 +1,23 @@
 /* Unused alt char armour*/
 	(
-			(name:"v220814_1")
+			(name:"v220829_1")
 		or
 			(
 				(is:armor)
+                (is:titan or is:hunter)
 
                 (-is:exotic)
 
 
 
-                (energycapacity:<8)
+                (energycapacity:<9)
 
-                ((basestat:total:<66 and stat:custom:<45)
+                ((basestat:total:<66 and stat:custom:<52)
             )
 		
     
     and ( 
-            (is:armor -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -source:garden -source:vow)
+            (is:armor -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -source:garden -source:vow -perkname:"artifice armor")
 
             or
 

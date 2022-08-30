@@ -1,6 +1,6 @@
 /* Unused weapons*/
     (
-		    (name:"v220822_1")
+		    (name:"v220829_1")
 		or
 			name:"RAZOR'S EDGE"         
         or 
@@ -47,7 +47,23 @@
             name:"Firefright"
         or 
             name:"FATEBRINGER"
+        or 
+            name:"FRACTETHYST"
+        or 
+            name:"SERVANT LEADER"
+        or 
+            name:"PRAEDYTH'S REVENGE"
+        or 
+            name:"PRAEDYTH'S REVENGE (TIMELOST)"
+        or 
+            name:"HEZEN VENGEANCE"
+        or 
+            name:"HEZEN VENGEANCE (TIMELOST)"  
+        or 
+            name:"CORRECTIVE MEASURE (TIMELOST)"  
             
+                
+
 
 
             
