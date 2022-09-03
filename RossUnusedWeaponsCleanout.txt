@@ -32,8 +32,6 @@
         or 
             name:"Perses-D"
         or 
-            name:"Krait"
-        or 
             name:"Forge's Pledge"
         or 
             name:"LUNULATA-4B"
@@ -60,7 +58,9 @@
         or 
             name:"HEZEN VENGEANCE (TIMELOST)"  
         or 
-            name:"CORRECTIVE MEASURE (TIMELOST)"  
+            name:"CORRECTIVE MEASURE (TIMELOST)"
+         or 
+            name:"SORROW'S VERSE"          
             
                 
 
