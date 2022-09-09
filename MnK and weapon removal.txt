@@ -1,20 +1,34 @@
-(PvP / M+KB):
-(PvE / M+KB):
+Keywords to remove
+
+    (PvP / M+KB):
+    (PvE / M+KB):
 
 
 
+Weapon IDs to remove, which are added via WL manager. Only applies to weapons with very strict roles
 
-
-
-
-Weapon IDs to remove, which are sometimes added via WL manager
-
-REDO when I next merge with CL
-
-
-
-
-
+    Eyasluna - 235827225
+    Sojourner's Tale - 599895591
+    Found Verdict (Timelost) - 631439337
+    Found Verdict - 3197270240
+    Mindbender's Ambition (Adept) - 912150785
+    Mindbender's Ambition - 1094005544
+    The Messenger (Adept) - 1173780905
+    The Messenger - 3658188704
+    Fatebringer (Timelost) - 1216319404
+    Reed's Regret - 1399243961
+    Reed's Regret (Adept) - 2475355656
+    The Hothead (Adept) - 1866778462
+    Taipan-4fr - 1911060537
+    Horror's Least (Adept) - 1924276978
+    Royal Entry - 2448907086
+    Riptide - 2715240478
+    Krait - 2852052802
+    Stormchaser - 3652506829
+    Shayura's Wrath  - 3682803680
+    Shayura's Wrath (Adept) - 4023807721 
+    Staccato-46 - 4019668921
+    The Third Axiom  - 4156253727
 
 
 -------
