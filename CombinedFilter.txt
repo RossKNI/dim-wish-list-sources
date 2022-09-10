@@ -1,6 +1,6 @@
 /* Ross weapon & armour filter*/
 	(
-			(name:"v220909_1")
+			(name:"v220910_1")
 		or
 			(
 				(is:armor -is:exotic -is:classitem)
@@ -48,6 +48,8 @@
 			(is:Warlock is:armor -is:exotic basestat:mobility:>9)
 		or
 			(is:Hunter is:armor -is:exotic basestat:resilience:>99)
+		or	
+			(is:classitem energycapacity:<9)
 
 
 
