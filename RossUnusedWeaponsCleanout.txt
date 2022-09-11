@@ -1,6 +1,6 @@
 /* Unused weapons*/
     (
-		    (name:"v220829_1")
+		    (name:"v220911_1")
 		or
 			name:"RAZOR'S EDGE"         
         or 
@@ -62,13 +62,21 @@
          or 
             name:"SORROW'S VERSE"
         or 
-            name:"Punching Out"              
-            
-                
-
-
+            name:"Punching Out"
+        or 
+            name:"WASTELANDER M5"
+        or 
+            name:"ENYO-D"
+        or 
+            name:"HEROD-C"
+        or 
+            name:"VISION OF CONFLUENCE"
+        or 
+            name:"VISION OF CONFLUENCE (TIMELOST)"
+        or 
+            name:"THE OTHER HALF"              
 
             
     )
 
-        and (-tag:favorite -tag:keep -is:maxpower -power:pinnaclecap -is:inloadout is:weapon)
+        and (-tag:favorite -tag:keep -is:maxpower -power:pinnaclecap -is:inloadout is:weapon -is:crafted)
