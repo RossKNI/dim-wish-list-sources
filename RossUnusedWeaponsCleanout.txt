@@ -54,8 +54,6 @@
         or 
             name:"PRAEDYTH'S REVENGE (TIMELOST)"
         or 
-            name:"HEZEN VENGEANCE"
-        or 
             name:"HEZEN VENGEANCE (TIMELOST)"  
         or 
             name:"CORRECTIVE MEASURE (TIMELOST)"
