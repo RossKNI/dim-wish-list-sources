@@ -27,7 +27,6 @@ Weapon IDs to remove, which are added via WL manager. Only applies to weapons wi
     Stormchaser - 3652506829
     Shayura's Wrath  - 3682803680
     Shayura's Wrath (Adept) - 4023807721 
-    Staccato-46 - 4019668921
     The Third Axiom  - 4156253727
 
 
