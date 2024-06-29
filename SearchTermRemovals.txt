@@ -1,12 +1,6 @@
 (PvP / M+KB):
 (PvE / M+KB):
 
-
-
-
-
-
-
 235827225 // Eyasluna
 631439337 // Found Verdict (Timelost)
 3197270240 // Found Verdict
@@ -21,4 +15,4 @@
 2715240478 // Riptide
 3652506829 // Stormchaser
 3682803680 // Shayura's Wrath
-4023807721  // Shayura's Wrath (Adept)
+4023807721 // Shayura's Wrath (Adept)
