@@ -1,3 +1,1 @@
 WishlistCleanup.py
-
-PAUSE
