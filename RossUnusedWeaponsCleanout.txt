@@ -1,6 +1,6 @@
 /* Unused weapons*/
     (
-		    (name:"v220911_1")
+		    (name:"v240701_1")
 		or
 			name:"RAZOR'S EDGE"         
         or 
@@ -72,9 +72,11 @@
         or 
             name:"VISION OF CONFLUENCE (TIMELOST)"
         or 
-            name:"THE OTHER HALF"              
-
-            
+            name:"THE OTHER HALF"    
+		or 
+            name:"EXTRAORDINARY RENDITION"
+		or 
+            name:"COMBINED ACTION"		
     )
 
         and (-tag:favorite -tag:keep -is:maxpower -power:pinnaclecap -is:inloadout is:weapon -is:crafted)
