@@ -1,6 +1,6 @@
 /* Unused alt char armour*/
 	(
-			(name:"v220829_1")
+			(name:"v240701_1")
 		or
 			(
 				(is:armor)
@@ -17,7 +17,7 @@
 		
     
     and ( 
-            (is:armor -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -source:garden -source:vow -perkname:"artifice armor")
+            (is:armor -is:maxpowerloadout -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -source:garden -source:vow -exactperk:"artifice armor")
 
             or
 
