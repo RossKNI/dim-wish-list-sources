@@ -51,7 +51,7 @@ or
     (is:patternunlocked)
 )
 and ( 
-    (is:armor -is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -source:garden -perkname:"artifice armor")
+    (is:armor -is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -source:garden -exactperk:"artifice armor" (-is:classitem and is:exotic))
 or
     (is:weapon -is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -is:crafted)
 )
