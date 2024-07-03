@@ -20,7 +20,7 @@ or
             (basestat:total:<66)
     )
 or
-    (is:armor is:exotic is:dupe stat:custom:<40)
+    (is:armor is:exotic is:dupe stat:custom:<40 energycapacity:<10)
 or
     (is:ghost -is:masterwork -is:common)
 or
@@ -42,7 +42,7 @@ or
 or
     (is:Hunter is:armor -is:exotic basestat:resilience:>99)
 or    
-    (is:classitem energycapacity:<9)
+    (is:classitem energycapacity:<10)
 or
     (-is:wishlist is:weapon -is:exotic)      
 or
