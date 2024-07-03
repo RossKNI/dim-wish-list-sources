@@ -1,6 +1,6 @@
 /* Ross weapon & armour filter */
 (
-    (name:"v240702_1")
+    (name:"v240703_1")
 or
     (
         (is:armor -is:exotic -is:classitem)
@@ -31,8 +31,6 @@ or
     (is:classitem source:raid is:dupelower)
 or
     (is:classitem -source:ironbanner is:dupelower)
-or
-    (is:armor is:sunset)
 or
     ((is:armor or is:weapon) and (is:common or is:uncommon or is:blue))
 or
