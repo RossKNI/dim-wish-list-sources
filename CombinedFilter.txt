@@ -1,6 +1,6 @@
 /* Ross weapon & armour filter */
 (
-    (name:"v240703_2")
+    (name:"v240703_3")
 or
     (
         (is:armor -is:exotic -is:classitem)
@@ -25,6 +25,8 @@ or
     (is:classitem source:raid is:dupelower)
 or
     (is:classitem -source:ironbanner is:dupelower)
+or    
+    (is:classitem energycapacity:<10)
 or
     ((is:armor or is:weapon) and (is:common or is:uncommon or is:blue))
 or
@@ -33,8 +35,6 @@ or
     (is:Warlock is:armor -is:exotic basestat:mobility:>9)
 or
     (is:Hunter is:armor -is:exotic basestat:resilience:>99)
-or    
-    (is:classitem energycapacity:<10)
 or
     (-is:wishlist is:weapon -is:exotic)
 or
