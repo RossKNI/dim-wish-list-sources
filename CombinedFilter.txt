@@ -1,6 +1,6 @@
 /* Ross weapon & armour filter */
 (
-    (name:"v240703_3")
+    (name:"v240703_4")
 or
     (
         (is:armor -is:exotic -is:classitem)
@@ -41,7 +41,7 @@ or
     (is:patternunlocked)
 )
 and ( 
-    (is:armor -is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -source:garden -exactperk:"artifice armor")
+    (is:armor -is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -source:garden -exactperk:"artifice armor" -exactname:"Solipsism" -exactname:"Relativism" -exactname:"Stoicism")
 or
     (is:weapon -is:maxpower -power:pinnaclecap -is:inloadout -tag:favorite -tag:keep -tag:infuse -is:crafted)
 )
