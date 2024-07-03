@@ -20,9 +20,7 @@ or
             (basestat:total:<66)
     )
 or
-    (
-        is:armor is:exotic is:dupe stat:custom:<40
-    )
+    (is:armor is:exotic is:dupe stat:custom:<40)
 or
     (is:ghost -is:masterwork -is:common)
 or
