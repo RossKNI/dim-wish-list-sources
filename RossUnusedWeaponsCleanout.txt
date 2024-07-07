@@ -1,6 +1,6 @@
 /* Unused weapons*/
     (
-		    (name:"v240701_1")
+		    (name:"v240707_1")
 		or
 			name:"RAZOR'S EDGE"         
         or 
@@ -79,6 +79,8 @@
             name:"COMBINED ACTION"
         or 
             name:"OLD STERLING"
+        or 
+            name:"MARCATO-45"
     )
 
         and (-tag:favorite -tag:keep -is:maxpower -power:pinnaclecap -is:inloadout is:weapon -is:crafted)
