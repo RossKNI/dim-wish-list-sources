@@ -44,6 +44,7 @@ def remove_code_blocks(input_file, search_terms, start_phrase):
 
     output_lines = lines[:start_index]  # Include lines before start phrase
     skip_block = False
+    removed_count = 0
 
     for line in lines[start_index:]:
         if skip_block:
@@ -55,12 +56,15 @@ def remove_code_blocks(input_file, search_terms, start_phrase):
         # Check if line contains any search term
         if any(term in line for term in search_terms):
             skip_block = True
+            removed_count += 1
             continue
         
         output_lines.append(line)
 
     with open(input_file, 'w', encoding='utf-8') as file:
         file.writelines(output_lines)
+    
+    return removed_count
 
 # Main script execution with error handling
 try:
@@ -69,9 +73,11 @@ try:
     # Load search terms
     search_terms = load_search_terms('SearchTermRemovals.txt')
 
-    # Remove code blocks from file
-    remove_code_blocks('RauceWishList.txt', search_terms, start_phrase)
-    print("Processing completed successfully.")
+    # Remove code blocks from file and get count of removed lines
+    removed_count = remove_code_blocks('RauceWishList.txt', search_terms, start_phrase)
+    
+    print(f"Processing completed successfully.")
+    print(f"Number of weapon roll groups removed: {removed_count}")
 except Exception as e:
     print(f"An error occurred: {e}")
 
