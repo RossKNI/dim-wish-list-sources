@@ -19,7 +19,6 @@
 
 
 
--------
-Highlight desired ID to remove
-CTRL & Shift & L = highlight all
-CTRL & shift & K = removes all
+// Highlight desired ID to remove
+// CTRL & Shift & L = highlight all
+// CTRL & shift & K = removes all
