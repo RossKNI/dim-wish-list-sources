@@ -16,3 +16,10 @@
 3652506829 // Stormchaser
 3682803680 // Shayura's Wrath
 4023807721 // Shayura's Wrath (Adept)
+
+
+
+-------
+Highlight desired ID to remove
+CTRL & Shift & L = highlight all
+CTRL & shift & K = removes all
