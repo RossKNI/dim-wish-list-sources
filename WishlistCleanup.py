@@ -1,6 +1,6 @@
 import re
 
-# Define function to find the starting line in large file
+# Find the starting line in the file
 def find_starting_line(input_file, start_phrase):
     with open(input_file, 'r', encoding='utf-8') as file:
         lines = file.readlines()
@@ -9,7 +9,7 @@ def find_starting_line(input_file, start_phrase):
                 return i
     return -1  # Return -1 if start phrase is not found
 
-# Define function to read search terms from file
+# Read search terms from file
 def load_search_terms(filename):
     search_terms = []
     with open(filename, 'r', encoding='utf-8') as file:
@@ -31,7 +31,7 @@ def load_search_terms(filename):
 
     return search_terms
 
-# Define function to remove code blocks containing any search term
+# Remove code blocks containing any search term
 def remove_code_blocks(input_file, search_terms, start_phrase):
     # Find the index of starting line to begin removal
     start_index = find_starting_line(input_file, start_phrase)
@@ -66,14 +66,14 @@ def remove_code_blocks(input_file, search_terms, start_phrase):
     
     return removed_count
 
-# Main script execution with error handling
+# Script execution with error handling
 try:
     start_phrase = "Standard DIM community wishlist"
     
     # Load search terms
     search_terms = load_search_terms('SearchTermRemovals.txt')
 
-    # Remove code blocks from file and get count of removed lines
+    # Remove code blocks from file and obtain a count for total removed lines
     removed_count = remove_code_blocks('RauceWishList.txt', search_terms, start_phrase)
     
     print(f"Processing completed successfully.")
